@@ -1,0 +1,1767 @@
+uuid,question,options,answer,answer_letter,discipline,field,subfield,difficulty,is_calculation,options_len,question_with_options
+d265f6ce7678499da1b28326019825cf,ATP yield in Beta oxidation of palmitic acid ?,"['110 ATP', '106 ATP', '120 ATP', '103 ATP', '102 ATP', '109 ATP', '104 ATP', '108 ATP', '107 ATP', '105 ATP']",106 ATP,B,Science,Biology,Biochemistry and Molecular Biology,middle,True,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+ATP yield in Beta oxidation of palmitic acid ?
+
+Options:
+A. 110 ATP
+B. 106 ATP
+C. 120 ATP
+D. 103 ATP
+E. 102 ATP
+F. 109 ATP
+G. 104 ATP
+H. 108 ATP
+I. 107 ATP
+J. 105 ATP
+"
+143afd6ae2a1484ba4e6cb2ef14a44a3,Number of ATP required for synthesis of 1 mole of urea is:,"['5', '7', '4', '2', '8', '3', '12', '6', '1', '9']",3,F,Science,Biology,Biochemistry and Molecular Biology,easy,True,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+Number of ATP required for synthesis of 1 mole of urea is:
+
+Options:
+A. 5
+B. 7
+C. 4
+D. 2
+E. 8
+F. 3
+G. 12
+H. 6
+I. 1
+J. 9
+"
+064cc95508694fac99a3edf344054eb9,"A certain pure molybdenum-containing enzyme has an $a_{280}^{0.1\%}$ of 1.5 when measured with a 1 cm cuvette. The concentrated solution of this enzyme contains $10.56 \, \mu\mathrm{g} \, \mathrm{Mo} / \mathrm{ml}$. After a 1:50 dilution of this concentrated solution, the $A_{280 \, \mathrm{nm}}$ is 0.375. Calculate the minimum molecular weight of this enzyme is(). The atomic weight of $Mo$ is 95.94.","['$$\n\\simeq1 8 0, 5 0 0\n$$', '$$\n\\simeq3 1 2, 4 0 0\n$$', '$$\n\\simeq2 0 5, 8 0 0\n$$', '$$\n\\simeq4 7, 1 0 0\n$$', '$$\n\\simeq5 7, 7 0 0\n$$', '$$\n\\simeq9 5, 9 4 0\n$$', '$$\n\\simeq8 9, 3 0 0\n$$', '$$\n\\simeq6 2, 1 0 0\n$$', '$$\n\\simeq1 1 3, 6 0 0\n$$', '$$\n\\simeq2 2 4, 2 0 0\n$$']","$$
+\simeq1 1 3, 6 0 0
+$$",I,Science,Biology,Biochemistry and Molecular Biology,middle,True,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+A certain pure molybdenum-containing enzyme has an $a_{280}^{0.1\%}$ of 1.5 when measured with a 1 cm cuvette. The concentrated solution of this enzyme contains $10.56 \, \mu\mathrm{g} \, \mathrm{Mo} / \mathrm{ml}$. After a 1:50 dilution of this concentrated solution, the $A_{280 \, \mathrm{nm}}$ is 0.375. Calculate the minimum molecular weight of this enzyme is(). The atomic weight of $Mo$ is 95.94.
+
+Options:
+A. $$
+\simeq1 8 0, 5 0 0
+$$
+B. $$
+\simeq3 1 2, 4 0 0
+$$
+C. $$
+\simeq2 0 5, 8 0 0
+$$
+D. $$
+\simeq4 7, 1 0 0
+$$
+E. $$
+\simeq5 7, 7 0 0
+$$
+F. $$
+\simeq9 5, 9 4 0
+$$
+G. $$
+\simeq8 9, 3 0 0
+$$
+H. $$
+\simeq6 2, 1 0 0
+$$
+I. $$
+\simeq1 1 3, 6 0 0
+$$
+J. $$
+\simeq2 2 4, 2 0 0
+$$
+"
+250f89d0ddba4089a94ebf5a6023148a,"The substrate concentration for a certain enzyme is $6 \times 10^{-4} M \, (K_{m} = 10^{-3} M)$, and the concentration of the non-competitive inhibitor is $2.5 \times 10^{-4} (K_{i} = 3 \times 10^{-5} M)$, with $V_{\mathrm{m}} = 515 \mathrm{n}M \times \mathrm{l}^{-1} \times \text{min}^{-1}$. Calculate the reaction rate of the enzyme and the percentage of inhibition.","['21.3 Nanomoles $\\times$litres $^{-1}\\times$cents $^{-1},81.5\\%$', '24.1 Nanomoles $\\times$litres $^{-1}\\times$cents $^{-1},92.6\\%$', '19.8 Nanomoles $\\times$litres $^{-1}\\times$cents $^{-1},67.4\\%$', '18.5 Nanomoles $\\times$litres $^{-1}\\times$cents $^{-1},73.2\\%$', '17.4 Nanomoles $\\times$litres $^{-1}\\times$cents $^{-1},70.0\\%$', '16.7 Nanomoles $\\times$litres $^{-1}\\times$cents $^{-1},71.9\\%$', '25.0 Nanomoles $\\times$litres $^{-1}\\times$cents $^{-1},95.8\\%$', '22.9 Nanomoles $\\times$litres $^{-1}\\times$cents $^{-1},88.7\\%$', '23.6 Nanomoles $\\times$litres $^{-1}\\times$cents $^{-1},94.1\\%$', '20.7 Nanomoles $\\times$litres $^{-1}\\times$cents $^{-1},89.3\\%$']","20.7 Nanomoles $\times$litres $^{-1}\times$cents $^{-1},89.3\%$",J,Science,Biology,Biochemistry and Molecular Biology,middle,True,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+The substrate concentration for a certain enzyme is $6 \times 10^{-4} M \, (K_{m} = 10^{-3} M)$, and the concentration of the non-competitive inhibitor is $2.5 \times 10^{-4} (K_{i} = 3 \times 10^{-5} M)$, with $V_{\mathrm{m}} = 515 \mathrm{n}M \times \mathrm{l}^{-1} \times \text{min}^{-1}$. Calculate the reaction rate of the enzyme and the percentage of inhibition.
+
+Options:
+A. 21.3 Nanomoles $\times$litres $^{-1}\times$cents $^{-1},81.5\%$
+B. 24.1 Nanomoles $\times$litres $^{-1}\times$cents $^{-1},92.6\%$
+C. 19.8 Nanomoles $\times$litres $^{-1}\times$cents $^{-1},67.4\%$
+D. 18.5 Nanomoles $\times$litres $^{-1}\times$cents $^{-1},73.2\%$
+E. 17.4 Nanomoles $\times$litres $^{-1}\times$cents $^{-1},70.0\%$
+F. 16.7 Nanomoles $\times$litres $^{-1}\times$cents $^{-1},71.9\%$
+G. 25.0 Nanomoles $\times$litres $^{-1}\times$cents $^{-1},95.8\%$
+H. 22.9 Nanomoles $\times$litres $^{-1}\times$cents $^{-1},88.7\%$
+I. 23.6 Nanomoles $\times$litres $^{-1}\times$cents $^{-1},94.1\%$
+J. 20.7 Nanomoles $\times$litres $^{-1}\times$cents $^{-1},89.3\%$
+"
+1d74efd3d98949e29c918b26d93ff381,"Mix 1.7 mg of pure enzyme (molecular weight = 55000) with an excess of iodoacetamide $-^{14}C(S. A. =2\mu Ci/mmol)$ and incubate. Precipitate the carboxymethylated protein, wash away the unreacted iodoacetamide $-^{14}C$, and dissolve it in a small amount of buffer solution. Count the entire solution with a scintillation counter operating at 80% efficiency. Within 1 hour, the sample shows 13190 counts above background (exceeding the background). Calculate the number of reactive SH groups per protein molecule.","['Each $3.09 \\times 10^{-8} M$ of enzyme contains $5.00 \\times 10^{-8} M$ of reduced thiol ($\\text{one}\\ \\text{SH}$ or $\\mathbf{Z}-\\mathbf{S H}/M$).', 'Each $3.09 \\times 10^{-8} M$ of enzyme contains $8.25 \\times 10^{-8} M$ of reduced thiol ($\\text{one}\\ \\text{SH}$ or $\\mathbf{Z}-\\mathbf{S H}/M$).', 'Each $3.09 \\times 10^{-8} M$ of enzyme contains $6.19 \\times 10^{-8} M$ of reduced thiol ($\\text{one}\\ \\text{SH}$ or $\\mathbf{Z}-\\mathbf{S H}/M$).', 'Each $3.09 \\times 10^{-8} M$ of enzyme contains $3.50 \\times 10^{-8} M$ of reduced thiol ($\\text{one}\\ \\text{SH}$ or $\\mathbf{Z}-\\mathbf{S H}/M$).', 'Each $3.09 \\times 10^{-8} M$ of enzyme contains $5.20 \\times 10^{-8} M$ of reduced thiol ($\\text{one}\\ \\text{SH}$ or $\\mathbf{Z}-\\mathbf{S H}/M$).', 'Each $3.09 \\times 10^{-8} M$ of enzyme contains $9.00 \\times 10^{-8} M$ of reduced thiol ($\\text{one}\\ \\text{SH}$ or $\\mathbf{Z}-\\mathbf{S H}/M$).', 'Each $3.09 \\times 10^{-8} M$ of enzyme contains $4.50 \\times 10^{-8} M$ of reduced thiol ($\\text{one}\\ \\text{SH}$ or $\\mathbf{Z}-\\mathbf{S H}/M$).', 'Each $3.09 \\times 10^{-8} M$ of enzyme contains $5.75 \\times 10^{-8} M$ of reduced thiol ($\\text{one}\\ \\text{SH}$ or $\\mathbf{Z}-\\mathbf{S H}/M$).', 'Each $3.09 \\times 10^{-8} M$ of enzyme contains $7.00 \\times 10^{-8} M$ of reduced thiol ($\\text{one}\\ \\text{SH}$ or $\\mathbf{Z}-\\mathbf{S H}/M$).', 'Each $3.09 \\times 10^{-8} M$ of enzyme contains $6.50 \\times 10^{-8} M$ of reduced thiol ($\\text{one}\\ \\text{SH}$ or $\\mathbf{Z}-\\mathbf{S H}/M$).']",Each $3.09 \times 10^{-8} M$ of enzyme contains $6.19 \times 10^{-8} M$ of reduced thiol ($\text{one}\ \text{SH}$ or $\mathbf{Z}-\mathbf{S H}/M$).,C,Science,Biology,Biochemistry and Molecular Biology,hard,True,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+Mix 1.7 mg of pure enzyme (molecular weight = 55000) with an excess of iodoacetamide $-^{14}C(S. A. =2\mu Ci/mmol)$ and incubate. Precipitate the carboxymethylated protein, wash away the unreacted iodoacetamide $-^{14}C$, and dissolve it in a small amount of buffer solution. Count the entire solution with a scintillation counter operating at 80% efficiency. Within 1 hour, the sample shows 13190 counts above background (exceeding the background). Calculate the number of reactive SH groups per protein molecule.
+
+Options:
+A. Each $3.09 \times 10^{-8} M$ of enzyme contains $5.00 \times 10^{-8} M$ of reduced thiol ($\text{one}\ \text{SH}$ or $\mathbf{Z}-\mathbf{S H}/M$).
+B. Each $3.09 \times 10^{-8} M$ of enzyme contains $8.25 \times 10^{-8} M$ of reduced thiol ($\text{one}\ \text{SH}$ or $\mathbf{Z}-\mathbf{S H}/M$).
+C. Each $3.09 \times 10^{-8} M$ of enzyme contains $6.19 \times 10^{-8} M$ of reduced thiol ($\text{one}\ \text{SH}$ or $\mathbf{Z}-\mathbf{S H}/M$).
+D. Each $3.09 \times 10^{-8} M$ of enzyme contains $3.50 \times 10^{-8} M$ of reduced thiol ($\text{one}\ \text{SH}$ or $\mathbf{Z}-\mathbf{S H}/M$).
+E. Each $3.09 \times 10^{-8} M$ of enzyme contains $5.20 \times 10^{-8} M$ of reduced thiol ($\text{one}\ \text{SH}$ or $\mathbf{Z}-\mathbf{S H}/M$).
+F. Each $3.09 \times 10^{-8} M$ of enzyme contains $9.00 \times 10^{-8} M$ of reduced thiol ($\text{one}\ \text{SH}$ or $\mathbf{Z}-\mathbf{S H}/M$).
+G. Each $3.09 \times 10^{-8} M$ of enzyme contains $4.50 \times 10^{-8} M$ of reduced thiol ($\text{one}\ \text{SH}$ or $\mathbf{Z}-\mathbf{S H}/M$).
+H. Each $3.09 \times 10^{-8} M$ of enzyme contains $5.75 \times 10^{-8} M$ of reduced thiol ($\text{one}\ \text{SH}$ or $\mathbf{Z}-\mathbf{S H}/M$).
+I. Each $3.09 \times 10^{-8} M$ of enzyme contains $7.00 \times 10^{-8} M$ of reduced thiol ($\text{one}\ \text{SH}$ or $\mathbf{Z}-\mathbf{S H}/M$).
+J. Each $3.09 \times 10^{-8} M$ of enzyme contains $6.50 \times 10^{-8} M$ of reduced thiol ($\text{one}\ \text{SH}$ or $\mathbf{Z}-\mathbf{S H}/M$).
+"
+ff8255d64a7f4ea3ba50cff17285ad9c,"By using spectrophotometry to track changes in $NADH$ concentration, the activity of lactate dehydrogenase can be determined. The total volume of the assay system is $3.0ml$, containing sufficient lactate, buffer solution, $0.1ml$ of enzyme preparation, and semicarbazide (which binds with pyruvate to ensure the reaction completes). Each ml of enzyme preparation contains $120\mu g$ of protein. The increase in $A_{340 \mathrm{nm}}$ is 0.048 per minute. What is the concentration of lactate dehydrogenase in the preparation (units/ml)?","['0.198 units/ml', '0.241 units/ml', '0.232 units/ml', '0.215 units/ml', '0.289 units/ml', '0.267 units/ml', '0.276 units/ml', '0.225 units/ml', '0.249 units/ml', '0.219 units/ml']",0.232 units/ml,C,Science,Biology,Biochemistry and Molecular Biology,middle,True,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+By using spectrophotometry to track changes in $NADH$ concentration, the activity of lactate dehydrogenase can be determined. The total volume of the assay system is $3.0ml$, containing sufficient lactate, buffer solution, $0.1ml$ of enzyme preparation, and semicarbazide (which binds with pyruvate to ensure the reaction completes). Each ml of enzyme preparation contains $120\mu g$ of protein. The increase in $A_{340 \mathrm{nm}}$ is 0.048 per minute. What is the concentration of lactate dehydrogenase in the preparation (units/ml)?
+
+Options:
+A. 0.198 units/ml
+B. 0.241 units/ml
+C. 0.232 units/ml
+D. 0.215 units/ml
+E. 0.289 units/ml
+F. 0.267 units/ml
+G. 0.276 units/ml
+H. 0.225 units/ml
+I. 0.249 units/ml
+J. 0.219 units/ml
+"
+f0bb3853e211468d8b09a21b001c3909,"The sedimentation coefficient $S$ and diffusion coefficient $D$ of hemoglobin in water, corrected to the values ​​at $293 \mathrm{~K}$, are $4.41 \times 10^{-13} \, \mathrm{s}$ and $6.3 \times 10^{-7} \, \mathrm{m^{2} \cdot s^{-1}}$respectively. At $293 \mathrm{~K}$, the specific volume is $0.749 \times 10^{-3} \, \mathrm{m}^{3} \cdot \mathrm{kg}^{-1}$, and the density of water is $998 \times 10^{3} \, \mathrm{kg} \cdot \mathrm{m}^{-3}$. Calculate the relative molecular weight of this hemoglobin?","['6.02', '8.33', '9.17', '5.42', '4.95', '6.75', '7.12', '5.84', '4.51', '7.89']",6.75,F,Science,Biology,Biochemistry and Molecular Biology,hard,True,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+The sedimentation coefficient $S$ and diffusion coefficient $D$ of hemoglobin in water, corrected to the values ​​at $293 \mathrm{~K}$, are $4.41 \times 10^{-13} \, \mathrm{s}$ and $6.3 \times 10^{-7} \, \mathrm{m^{2} \cdot s^{-1}}$respectively. At $293 \mathrm{~K}$, the specific volume is $0.749 \times 10^{-3} \, \mathrm{m}^{3} \cdot \mathrm{kg}^{-1}$, and the density of water is $998 \times 10^{3} \, \mathrm{kg} \cdot \mathrm{m}^{-3}$. Calculate the relative molecular weight of this hemoglobin?
+
+Options:
+A. 6.02
+B. 8.33
+C. 9.17
+D. 5.42
+E. 4.95
+F. 6.75
+G. 7.12
+H. 5.84
+I. 4.51
+J. 7.89
+"
+6c379eaf2cdc47d3a95b0968a1754aff,"From the biological standard half-cell potentials $E^{\oplus} ( \mathrm{O}_{2}, \mathrm{H}^{+}, \mathrm{H}_{2} \mathrm{O} )=+0. 8 2 \mathrm{V}$ and $E^{\oplus} ( \mathrm{N A D H^{+}, H^{+}, N A D H} )=-0. 3 2 \, \mathrm{V},$ calculate the standard potential arising from the reaction in which NADH is oxidized to NAD* and the corresponding biological standard reaction Gibbs energy.","['$$\n{-4 4 0 \\mathrm{~ k J ~ m o l^{-1}}}\n$$', '$$ {-2 2 0 \\mathrm{~ k J ~ m o l^{-1}}} $$', '$$ {-6 0 0 \\mathrm{~ k J ~ m o l^{-1}}} $$', '$$ {-5 5 0 \\mathrm{~ k J ~ m o l^{-1}}} $$', '$$ {+1 8 0 \\mathrm{~ k J ~ m o l^{-1}}} $$', '$$ {+4 0 0 \\mathrm{~ k J ~ m o l^{-1}}} $$', '$$ {-1 1 0 \\mathrm{~ k J ~ m o l^{-1}}} $$', '$$ {+3 5 0 \\mathrm{~ k J ~ m o l^{-1}}} $$', '$$ {-3 7 0 \\mathrm{~ k J ~ m o l^{-1}}} $$', '$$ {+2 4 0 \\mathrm{~ k J ~ m o l^{-1}}} $$']","$$
+{-4 4 0 \mathrm{~ k J ~ m o l^{-1}}}
+$$",A,Science,Biology,Biochemistry and Molecular Biology,hard,True,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+From the biological standard half-cell potentials $E^{\oplus} ( \mathrm{O}_{2}, \mathrm{H}^{+}, \mathrm{H}_{2} \mathrm{O} )=+0. 8 2 \mathrm{V}$ and $E^{\oplus} ( \mathrm{N A D H^{+}, H^{+}, N A D H} )=-0. 3 2 \, \mathrm{V},$ calculate the standard potential arising from the reaction in which NADH is oxidized to NAD* and the corresponding biological standard reaction Gibbs energy.
+
+Options:
+A. $$
+{-4 4 0 \mathrm{~ k J ~ m o l^{-1}}}
+$$
+B. $$ {-2 2 0 \mathrm{~ k J ~ m o l^{-1}}} $$
+C. $$ {-6 0 0 \mathrm{~ k J ~ m o l^{-1}}} $$
+D. $$ {-5 5 0 \mathrm{~ k J ~ m o l^{-1}}} $$
+E. $$ {+1 8 0 \mathrm{~ k J ~ m o l^{-1}}} $$
+F. $$ {+4 0 0 \mathrm{~ k J ~ m o l^{-1}}} $$
+G. $$ {-1 1 0 \mathrm{~ k J ~ m o l^{-1}}} $$
+H. $$ {+3 5 0 \mathrm{~ k J ~ m o l^{-1}}} $$
+I. $$ {-3 7 0 \mathrm{~ k J ~ m o l^{-1}}} $$
+J. $$ {+2 4 0 \mathrm{~ k J ~ m o l^{-1}}} $$
+"
+f10a225a291f481da8f539d255873187,DNA was used T instead of U to build. The enzyme that catalyzes $\mathrm{d U M P} \to\mathrm{d T M P}$ is ___.,"['TMP Decarboxylase', 'DUMP Oxidase', 'TMP Ligase', 'UMP Reductase', 'DUMP Synthetase', 'TMP Synthase', 'TMP Kinase', 'UMP Decarboxylase', 'TMP Phosphorylase', 'UMP Hydrolase']",TMP Synthase,F,Science,Biology,Biochemistry and Molecular Biology,middle,False,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+DNA was used T instead of U to build. The enzyme that catalyzes $\mathrm{d U M P} \to\mathrm{d T M P}$ is ___.
+
+Options:
+A. TMP Decarboxylase
+B. DUMP Oxidase
+C. TMP Ligase
+D. UMP Reductase
+E. DUMP Synthetase
+F. TMP Synthase
+G. TMP Kinase
+H. UMP Decarboxylase
+I. TMP Phosphorylase
+J. UMP Hydrolase
+"
+02405da167f242c2bd9f8c532f25cfa7,"Using $1 / v$ as the ordinate and $1 / [S]$ as the abscissa, the resultant line intercepts the ordinate at ___.","['$1 / S_{\\operatorname* {m a x}}$', '$1 / [S]_{\\operatorname* {m a x}}$', '$1 / S_{\\operatorname* {k a x}}$', '$1 / v_{\\operatorname* {m i n}}$', '$1 / S_{\\operatorname* {m i n}}$', '$1 / v_{\\operatorname* {s a t}}$', '$1 / k_{\\operatorname* {m i n}}$', '$1 / k_{\\operatorname* {m a x}}$', '$1 / [v]_{\\operatorname* {m a x}}$', '$1 / v_{\\operatorname* {m a x}}$']",$1 / v_{\operatorname* {m a x}}$,J,Science,Biology,Biochemistry and Molecular Biology,middle,False,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+Using $1 / v$ as the ordinate and $1 / [S]$ as the abscissa, the resultant line intercepts the ordinate at ___.
+
+Options:
+A. $1 / S_{\operatorname* {m a x}}$
+B. $1 / [S]_{\operatorname* {m a x}}$
+C. $1 / S_{\operatorname* {k a x}}$
+D. $1 / v_{\operatorname* {m i n}}$
+E. $1 / S_{\operatorname* {m i n}}$
+F. $1 / v_{\operatorname* {s a t}}$
+G. $1 / k_{\operatorname* {m i n}}$
+H. $1 / k_{\operatorname* {m a x}}$
+I. $1 / [v]_{\operatorname* {m a x}}$
+J. $1 / v_{\operatorname* {m a x}}$
+"
+14c3b551a7534218ab345bf68c80bc47,Vitamins with hydrogen transfer functions include ___ and ___.,"['Vitamin K, Vitamin B₆', 'Vitamin C, Vitamin D', 'Vitamin B₇, Vitamin B₉', 'Vitamin B₁₂, Vitamin D₃', 'Vitamin B₁, Vitamin A', 'Vitamin C, Vitamin B₆', 'Vitamin A, Vitamin E', 'Vitamin B₃, Vitamin B₅', 'Vitamin E, Vitamin K', 'Vitamin B₂, Vitamin PP']","Vitamin B₂, Vitamin PP",J,Science,Biology,Biochemistry and Molecular Biology,easy,False,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+Vitamins with hydrogen transfer functions include ___ and ___.
+
+Options:
+A. Vitamin K, Vitamin B₆
+B. Vitamin C, Vitamin D
+C. Vitamin B₇, Vitamin B₉
+D. Vitamin B₁₂, Vitamin D₃
+E. Vitamin B₁, Vitamin A
+F. Vitamin C, Vitamin B₆
+G. Vitamin A, Vitamin E
+H. Vitamin B₃, Vitamin B₅
+I. Vitamin E, Vitamin K
+J. Vitamin B₂, Vitamin PP
+"
+84ca9a53c4824bd4995640d44e438d05,What is required as a coenzyme for serine hydroxymethyltransferase?,"['adenos', 'pyridoxal phosphate', 'nicotinamide adenine dinucleotide', 'tetrahydrofolate', 'ubiquinone', 'thiamine pyrophosphate', 'dihydrolipoamide', 'ascorbic acid', 'pantothenic acid', 'flavin adenine dinucleotide']",tetrahydrofolate,D,Science,Biology,Biochemistry and Molecular Biology,middle,False,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+What is required as a coenzyme for serine hydroxymethyltransferase?
+
+Options:
+A. adenos
+B. pyridoxal phosphate
+C. nicotinamide adenine dinucleotide
+D. tetrahydrofolate
+E. ubiquinone
+F. thiamine pyrophosphate
+G. dihydrolipoamide
+H. ascorbic acid
+I. pantothenic acid
+J. flavin adenine dinucleotide
+"
+84de713dcde044188235a3906e9c1499,"G protein-coupled receptor (GPCR), GPCR is a cell surface receptor coupled to a trimeric G protein, which is ( ), and is the largest membrane protein superfamily encoded by the human genome.","['Disaccharide Phospholipid', 'Oligosaccharide Lipoprotein', 'Triglyceride Carrier Module', 'Mononucle', 'Trisaccharide Fatty Acid', 'Monosaccharide Glycoprotein', 'Tetracarbohydrate Enzyme', 'Polypeptide Nucleotide Chain', 'Oligopeptide Receptor Family', 'Disaccharide Transport Protein']",Monosaccharide Glycoprotein,F,Science,Biology,Biochemistry and Molecular Biology,easy,False,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+G protein-coupled receptor (GPCR), GPCR is a cell surface receptor coupled to a trimeric G protein, which is ( ), and is the largest membrane protein superfamily encoded by the human genome.
+
+Options:
+A. Disaccharide Phospholipid
+B. Oligosaccharide Lipoprotein
+C. Triglyceride Carrier Module
+D. Mononucle
+E. Trisaccharide Fatty Acid
+F. Monosaccharide Glycoprotein
+G. Tetracarbohydrate Enzyme
+H. Polypeptide Nucleotide Chain
+I. Oligopeptide Receptor Family
+J. Disaccharide Transport Protein
+"
+d53a75ec9fb9467eabaaaec62d8c6821,The transcriptional level regulation of tryptophan manipulators is closely related to ____.,"['ribosome', 'vacuole', 'nucleus', 'mitochondrion', 'cytoplasm', 'peroxisome', 'chloroplast', 'Golgi apparatus', 'lysosome', 'endoplasmic reticulum']",ribosome,A,Science,Biology,Biochemistry and Molecular Biology,easy,False,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+The transcriptional level regulation of tryptophan manipulators is closely related to ____.
+
+Options:
+A. ribosome
+B. vacuole
+C. nucleus
+D. mitochondrion
+E. cytoplasm
+F. peroxisome
+G. chloroplast
+H. Golgi apparatus
+I. lysosome
+J. endoplasmic reticulum
+"
+9e3e877052dc44ac97a22a314e8517aa,Essential groups in enzyme molecules are____ necessarily their active sites.,"['sometimes', 'not', 'always', 'seldom', 'often', 'frequently', 'usually', 'generally', 'occasionally', 'rarely']",not,B,Science,Biology,Biochemistry and Molecular Biology,easy,False,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+Essential groups in enzyme molecules are____ necessarily their active sites.
+
+Options:
+A. sometimes
+B. not
+C. always
+D. seldom
+E. often
+F. frequently
+G. usually
+H. generally
+I. occasionally
+J. rarely
+"
+d12177495687470cb169fac58cf064cf,The expression efficiency of housekeeping genes is primarily determined by the promoter and ______.,"['protein channels', 'tRNA molecules', 'transcription factors', 'histone modification', 'mRNA transcript', 'DNA ligase', 'amino acid sequence', 'replication fork', 'ribosomal subunits', 'RNA polymerase']",RNA polymerase,J,Science,Biology,Biochemistry and Molecular Biology,middle,False,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+The expression efficiency of housekeeping genes is primarily determined by the promoter and ______.
+
+Options:
+A. protein channels
+B. tRNA molecules
+C. transcription factors
+D. histone modification
+E. mRNA transcript
+F. DNA ligase
+G. amino acid sequence
+H. replication fork
+I. ribosomal subunits
+J. RNA polymerase
+"
+ff001ac0be2a4226a1acc19d9cee650f,How many molecules of ATP can be produced from the complete oxidation of one molecule of glucose?,"['31', '24', '35', '32', '30', '38', '36', '29', '37', '28']",32,D,Science,Biology,Biochemistry and Molecular Biology,middle,True,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+How many molecules of ATP can be produced from the complete oxidation of one molecule of glucose?
+
+Options:
+A. 31
+B. 24
+C. 35
+D. 32
+E. 30
+F. 38
+G. 36
+H. 29
+I. 37
+J. 28
+"
+dc535af39f4d4df7888d185724964718,What kind of polymerase is reverse transcriptase?,"['Carbohydrates Using DNA as a Template', 'DNA templated by protein', 'RNA based on protein as a template', 'DNA-templated DNA', 'Protein templated by RNA', 'RNA-templated RNA', 'RNA templated on DNA', 'Carbohydrates templated by RNA', 'Protein Based on DNA Template', 'DNA templated on RNA']",DNA templated on RNA,J,Science,Biology,Biochemistry and Molecular Biology,easy,False,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+What kind of polymerase is reverse transcriptase?
+
+Options:
+A. Carbohydrates Using DNA as a Template
+B. DNA templated by protein
+C. RNA based on protein as a template
+D. DNA-templated DNA
+E. Protein templated by RNA
+F. RNA-templated RNA
+G. RNA templated on DNA
+H. Carbohydrates templated by RNA
+I. Protein Based on DNA Template
+J. DNA templated on RNA
+"
+762e3a9ebb7342048c62426a7cabf927,Which of the following methods is used to separate and purify proteins based on differences in their relative molecular mass?,"['Differential Centrifugation', 'Dialysis Filtration Process', 'Isoelectric Focusing Electrophoresis', 'Gas-Liquid Chromatography', 'Affinity Chromatography', 'SDS-PAGE Electrophoresis', 'Ion Exchange Chromatography', 'Ultrafiltration', 'Size Exclusion Chromatography', 'Two-Dimensional Chromatography']",Ultrafiltration,H,Science,Biology,Biochemistry and Molecular Biology,middle,False,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+Which of the following methods is used to separate and purify proteins based on differences in their relative molecular mass?
+
+Options:
+A. Differential Centrifugation
+B. Dialysis Filtration Process
+C. Isoelectric Focusing Electrophoresis
+D. Gas-Liquid Chromatography
+E. Affinity Chromatography
+F. SDS-PAGE Electrophoresis
+G. Ion Exchange Chromatography
+H. Ultrafiltration
+I. Size Exclusion Chromatography
+J. Two-Dimensional Chromatography
+"
+dc372d329b6e488188262b7f902a99b0,"When the pH value of a protein solution is equal to the isoelectric point of the protein, what happens to the protein?","['Protein Denaturation', 'Total protein hydrolysis', 'Complete protein degradation', 'Maximum protein stability', 'Formation of protein aggregates', 'The lowest solubility', 'Zero net charge', 'Maximum solubility', ""Solubility is independent of the solution's pH."", 'Increasing ionic strength']",The lowest solubility,F,Science,Biology,Biochemistry and Molecular Biology,middle,False,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+When the pH value of a protein solution is equal to the isoelectric point of the protein, what happens to the protein?
+
+Options:
+A. Protein Denaturation
+B. Total protein hydrolysis
+C. Complete protein degradation
+D. Maximum protein stability
+E. Formation of protein aggregates
+F. The lowest solubility
+G. Zero net charge
+H. Maximum solubility
+I. Solubility is independent of the solution's pH.
+J. Increasing ionic strength
+"
+409d98f7ef544080adedf66f6caac462,The enzyme that catalyzes peptide bond formation is called peptidyl transferase because it is capable of?,"['Transfer the growing peptide chain to a new amino acid.', 'Transferring amino acids from tRNA to an elongating peptide chain', 'Moving the peptide chain directly into the nucleus.', 'Attaching the peptide chain to DNA for replication purposes.', 'Breaking down the peptide chain for recycling materials.', 'Transferring the growing peptide chain to the ribosomal subunit.', 'Transfer the peptide chain from one amino acid to another amino acid.', 'Transfer the peptide chain from one ribosome to another charged tRNA.', 'Transferring the peptide chain to a free-floating amino acid.', 'Joining two ribosomes to facilitate peptide synthesis.']",Transfer the growing peptide chain to a new amino acid.,A,Science,Biology,Biochemistry and Molecular Biology,middle,False,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+The enzyme that catalyzes peptide bond formation is called peptidyl transferase because it is capable of?
+
+Options:
+A. Transfer the growing peptide chain to a new amino acid.
+B. Transferring amino acids from tRNA to an elongating peptide chain
+C. Moving the peptide chain directly into the nucleus.
+D. Attaching the peptide chain to DNA for replication purposes.
+E. Breaking down the peptide chain for recycling materials.
+F. Transferring the growing peptide chain to the ribosomal subunit.
+G. Transfer the peptide chain from one amino acid to another amino acid.
+H. Transfer the peptide chain from one ribosome to another charged tRNA.
+I. Transferring the peptide chain to a free-floating amino acid.
+J. Joining two ribosomes to facilitate peptide synthesis.
+"
+240651b3f6364ac7ac8799971e71cf94,Which of the following statements about ATP synthesis in animal cells is correct?,"['ATP synthesis does not require energy from glucose metabolism.', 'ATP synthesis occurs exclusively in the nucleus.', 'ATP can be synthesized both in mitochondria and the cytoplasm.', 'ATP is synthesized only during protein translation.', 'ATP is synthesized in lysosomes during cellular respiration.', 'ATP synthesis is a function of the endoplasmic reticulum.', 'ATP is synthesized only in the chloroplasts of animal cells.', 'ATP is synthesized in the cytoplasm.', 'ATP is synthesized in the Golgi apparatus.', 'ATP is synthesized in the mitochondria.']",ATP can be synthesized both in mitochondria and the cytoplasm.,C,Science,Biology,Biochemistry and Molecular Biology,middle,False,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+Which of the following statements about ATP synthesis in animal cells is correct?
+
+Options:
+A. ATP synthesis does not require energy from glucose metabolism.
+B. ATP synthesis occurs exclusively in the nucleus.
+C. ATP can be synthesized both in mitochondria and the cytoplasm.
+D. ATP is synthesized only during protein translation.
+E. ATP is synthesized in lysosomes during cellular respiration.
+F. ATP synthesis is a function of the endoplasmic reticulum.
+G. ATP is synthesized only in the chloroplasts of animal cells.
+H. ATP is synthesized in the cytoplasm.
+I. ATP is synthesized in the Golgi apparatus.
+J. ATP is synthesized in the mitochondria.
+"
+d289fa3ab0784b288d490c4c00f8697b,"If NADH(H+) and FADH2 are calculated as 2.5 and 1.5 ATP respectively, how many ATP molecules are released when one molecule of pyruvate is completely oxidized into CO2 and H2O?","['16', '10', '17', '12', '12. 5', '13', '14', '14. 5', '15', '11. 5']",15,I,Science,Biology,Biochemistry and Molecular Biology,middle,True,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+If NADH(H+) and FADH2 are calculated as 2.5 and 1.5 ATP respectively, how many ATP molecules are released when one molecule of pyruvate is completely oxidized into CO2 and H2O?
+
+Options:
+A. 16
+B. 10
+C. 17
+D. 12
+E. 12. 5
+F. 13
+G. 14
+H. 14. 5
+I. 15
+J. 11. 5
+"
+17034c7c4aa54fdbb3d76cd0847b69ce,"After processing for one hour, adding iodine solution will cause the contents of which test tube to turn blue?","['After thoroughly mixing rice soup with a certain amount of cooled boiled water, place the test tube in water maintained at 37°C.', 'Combine mashed potatoes with some digestive enzymes, then maintain the test tube in water at 25°C.', 'Mix glucose solution with the same amount of hot water, then leave the test tube at 50°C.', 'Stir oatmeal with a certain amount of herbal infusion, placing the test tube in ice-cold water.', 'Blend protein shake with a measured amount of lukewarm water, and keep the test tube at 40°C.', 'Blend wheat flour with a calculated amount of artificial saliva, keeping the test tube at 30°C.', 'After mixing the essential amino acids required by the human body with a certain amount of saliva, place the test tube in water maintained at 37°C.', 'Rice soup is thoroughly mixed with a certain amount of saliva and the test tube is kept in water at 37°C.', 'Mix starch with a certain amount of saliva, then place the test tube in water at room temperature.', 'After being mixed with a certain amount of saliva, the lipid droplets are kept in a test tube in water at 37°C.']","After thoroughly mixing rice soup with a certain amount of cooled boiled water, place the test tube in water maintained at 37°C.",A,Science,Biology,Biochemistry and Molecular Biology,easy,False,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+After processing for one hour, adding iodine solution will cause the contents of which test tube to turn blue?
+
+Options:
+A. After thoroughly mixing rice soup with a certain amount of cooled boiled water, place the test tube in water maintained at 37°C.
+B. Combine mashed potatoes with some digestive enzymes, then maintain the test tube in water at 25°C.
+C. Mix glucose solution with the same amount of hot water, then leave the test tube at 50°C.
+D. Stir oatmeal with a certain amount of herbal infusion, placing the test tube in ice-cold water.
+E. Blend protein shake with a measured amount of lukewarm water, and keep the test tube at 40°C.
+F. Blend wheat flour with a calculated amount of artificial saliva, keeping the test tube at 30°C.
+G. After mixing the essential amino acids required by the human body with a certain amount of saliva, place the test tube in water maintained at 37°C.
+H. Rice soup is thoroughly mixed with a certain amount of saliva and the test tube is kept in water at 37°C.
+I. Mix starch with a certain amount of saliva, then place the test tube in water at room temperature.
+J. After being mixed with a certain amount of saliva, the lipid droplets are kept in a test tube in water at 37°C.
+"
+ab60956b51574a4fa6475702c88bd045,Which of the following descriptions about the chemiosmotic theory is correct?,"['$\\mathrm{H^+}$ is primarily present in the space outside the mitochondria, while $\\mathrm{OH^-}$ is absent near the membrane.', '$\\mathrm{OH^-}$ is actively transported and accumulates outside the mitochondria, while $\\mathrm{H^+}$ diffuses and distributes evenly.', '$\\mathrm{OH^-}$ and $\\mathrm{H^+}$ are both concentrated outside the mitochondrial inner membrane.', '$\\mathrm{OH^-}$ accumulates outside the mitochondrial inner membrane, while $\\mathrm{H^+}$ accumulates inside the membrane.', 'Both $\\mathrm{OH^-}$ and $\\mathrm{H^+}$ are concentrated on the inner mitochondrial membrane.', 'The concentration of $\\mathrm{H^+}$ is the same on the inner membrane and the outer membrane, while $\\mathrm{OH^-}$ is higher outside the inner membrane.', '$\\mathrm{H^+}$ accumulates on the inner side of the mitochondrial membrane, while $\\mathrm{OH^-}$ accumulates on the outer side of the membrane.', '$\\mathrm{H^+}$ accumulates outside the inner membrane of the mitochondria, while $\\mathrm{OH^-}$ accumulates inside the membrane.', '$\\mathrm{H^+}$ and $\\mathrm{OH^-}$ are evenly distributed on both sides of the inner and outer membranes.', '$\\mathrm{OH^-}$ accumulates in the middle of the mitochondrial inner membrane, while $\\mathrm{H^+}$ accumulates at both ends of the membrane.']","$\mathrm{H^+}$ accumulates outside the inner membrane of the mitochondria, while $\mathrm{OH^-}$ accumulates inside the membrane.",H,Science,Biology,Biochemistry and Molecular Biology,middle,False,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+Which of the following descriptions about the chemiosmotic theory is correct?
+
+Options:
+A. $\mathrm{H^+}$ is primarily present in the space outside the mitochondria, while $\mathrm{OH^-}$ is absent near the membrane.
+B. $\mathrm{OH^-}$ is actively transported and accumulates outside the mitochondria, while $\mathrm{H^+}$ diffuses and distributes evenly.
+C. $\mathrm{OH^-}$ and $\mathrm{H^+}$ are both concentrated outside the mitochondrial inner membrane.
+D. $\mathrm{OH^-}$ accumulates outside the mitochondrial inner membrane, while $\mathrm{H^+}$ accumulates inside the membrane.
+E. Both $\mathrm{OH^-}$ and $\mathrm{H^+}$ are concentrated on the inner mitochondrial membrane.
+F. The concentration of $\mathrm{H^+}$ is the same on the inner membrane and the outer membrane, while $\mathrm{OH^-}$ is higher outside the inner membrane.
+G. $\mathrm{H^+}$ accumulates on the inner side of the mitochondrial membrane, while $\mathrm{OH^-}$ accumulates on the outer side of the membrane.
+H. $\mathrm{H^+}$ accumulates outside the inner membrane of the mitochondria, while $\mathrm{OH^-}$ accumulates inside the membrane.
+I. $\mathrm{H^+}$ and $\mathrm{OH^-}$ are evenly distributed on both sides of the inner and outer membranes.
+J. $\mathrm{OH^-}$ accumulates in the middle of the mitochondrial inner membrane, while $\mathrm{H^+}$ accumulates at both ends of the membrane.
+"
+2fcd7a87abb84555a96b78e065684248,"Add the two oligonucleotide fragments 5'-ACCACGTAACGGA-3' and 5'-GTTAC-3' together with DNA polymerase into a reaction mixture containing dATP, dGTP, dCTP, and dTTP. Predict the ratio of the incorporated bases in the final reaction product.","['3G:1A:1T', '2G:1A', '3G:2T', '3G:2C:1T', '1G:1T', '3G:3T:2C', '2G:3T:1C', '4G:2T', '2C:1T', '5T:4G:3C:1A']",3G:2T,C,Science,Biology,Biochemistry and Molecular Biology,middle,True,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+Add the two oligonucleotide fragments 5'-ACCACGTAACGGA-3' and 5'-GTTAC-3' together with DNA polymerase into a reaction mixture containing dATP, dGTP, dCTP, and dTTP. Predict the ratio of the incorporated bases in the final reaction product.
+
+Options:
+A. 3G:1A:1T
+B. 2G:1A
+C. 3G:2T
+D. 3G:2C:1T
+E. 1G:1T
+F. 3G:3T:2C
+G. 2G:3T:1C
+H. 4G:2T
+I. 2C:1T
+J. 5T:4G:3C:1A
+"
+790b06427b054007b473f2e5e3033caa,"Hemoglobin, the protein responsible for carrying oxygen from the lungs to the body tissues, contains 0.355 per cent iron. Hydrolysis of 100 g of hemoglobin gives 1.48 g of tryptphan ; calculate the minimum molecular weight of hemoglobin which is consistent with these results.","['56', '15,800', '7,500', '32,000', '13,800', '66,500', '23,800', '150,000', '204', '2,200']","15,800",B,Science,Biology,Biochemistry and Molecular Biology,hard,True,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+Hemoglobin, the protein responsible for carrying oxygen from the lungs to the body tissues, contains 0.355 per cent iron. Hydrolysis of 100 g of hemoglobin gives 1.48 g of tryptphan ; calculate the minimum molecular weight of hemoglobin which is consistent with these results.
+
+Options:
+A. 56
+B. 15,800
+C. 7,500
+D. 32,000
+E. 13,800
+F. 66,500
+G. 23,800
+H. 150,000
+I. 204
+J. 2,200
+"
+8d942551ae3041398ec4a2ca55674605,"Many different fermentation pathways occur in different organisms in nature. For example, skeletal muscle cells convert pyruvate into lactic acid when no oxygen is present. Yeast cells can produce alcohol and carbon dioxide under the same circumstances. However, regardless of the specific reactions, the purpose of glycolysis is an important one. Which statement best describes the importance of glycolysis?","['It occurs in the cytoplasm.', 'It produces large amounts of ATP by oxidative phosphorylation.', 'It produces lactic acid, which is essential for muscle function.', 'It produces large amounts of ATP by substrate level phosphorylation.', 'It requires oxygen to produce pyruvate.', 'It produces glucose, which is used in the Krebs cycle.', 'It reoxidizes NADH so that glycolysis can continue.', 'It is the only way cells can produce ATP.', 'It produces pyruvate, which is the raw material for oxidative phosphorylation.', 'It converts glucose into ATP.']",It reoxidizes NADH so that glycolysis can continue.,G,Science,Biology,Biochemistry and Molecular Biology,middle,False,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+Many different fermentation pathways occur in different organisms in nature. For example, skeletal muscle cells convert pyruvate into lactic acid when no oxygen is present. Yeast cells can produce alcohol and carbon dioxide under the same circumstances. However, regardless of the specific reactions, the purpose of glycolysis is an important one. Which statement best describes the importance of glycolysis?
+
+Options:
+A. It occurs in the cytoplasm.
+B. It produces large amounts of ATP by oxidative phosphorylation.
+C. It produces lactic acid, which is essential for muscle function.
+D. It produces large amounts of ATP by substrate level phosphorylation.
+E. It requires oxygen to produce pyruvate.
+F. It produces glucose, which is used in the Krebs cycle.
+G. It reoxidizes NADH so that glycolysis can continue.
+H. It is the only way cells can produce ATP.
+I. It produces pyruvate, which is the raw material for oxidative phosphorylation.
+J. It converts glucose into ATP.
+"
+cd9394172d014dab8b78db532f62e318,"In biological cells, the energy released by the oxidation of foods is stored in adenosinetriphosphate (ATP or $ATP^{4-}$) The essence of ATP's action is its ability to lose it terminal phosphate group by hydrolysis and to form ADP.:
+$$ATP^{4-}(aq)+ H_2O(l) \to ADP^{3-}(aq)+ HPO_4^{2-}(aq)+ H_3O^+$$
+At pH= 7 and $37^C$, the $\Delta H$ and $\Delta G$ of hydrolysis are $-20$ kJ/mol and $-31$ kJ/mol respectively. Answer the given questions under these conditions.
+The formation of glutamin from glutamate and ammonium ions requires $62 kJ/mol^{-1}$ of energy input. It is driven by the hydrolysis of ATP to ADP. How many moles of ATP must be hydrolysis to form $1$ mol glutamine:","['0.75 mol', '$2$ mol', '0.5 mol', '$4$ mol', '$1.5$ mol', '$1$ mol', '3 mol']",$1$ mol,F,Science,Biology,Biochemistry and Molecular Biology,middle,True,7,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+In biological cells, the energy released by the oxidation of foods is stored in adenosinetriphosphate (ATP or $ATP^{4-}$) The essence of ATP's action is its ability to lose it terminal phosphate group by hydrolysis and to form ADP.:
+$$ATP^{4-}(aq)+ H_2O(l) \to ADP^{3-}(aq)+ HPO_4^{2-}(aq)+ H_3O^+$$
+At pH= 7 and $37^C$, the $\Delta H$ and $\Delta G$ of hydrolysis are $-20$ kJ/mol and $-31$ kJ/mol respectively. Answer the given questions under these conditions.
+The formation of glutamin from glutamate and ammonium ions requires $62 kJ/mol^{-1}$ of energy input. It is driven by the hydrolysis of ATP to ADP. How many moles of ATP must be hydrolysis to form $1$ mol glutamine:
+
+Options:
+A. 0.75 mol
+B. $2$ mol
+C. 0.5 mol
+D. $4$ mol
+E. $1.5$ mol
+F. $1$ mol
+G. 3 mol
+"
+5ea94fbe993d4d7c9fcb9aaeed39d40e,"Regarding the mechanism of ATP synthesis, which of the following statements is correct?","['The F1 unit has ADP synthase activity', 'F1 provides the transmembrane proton channel', 'The backflow of protons against the concentration gradient drives ATP synthesis', 'The F1 unit has ADPase activity', 'The F1 unit has ATPase and ATP synthase activity', 'The conformation of subunit b remains unchanged', 'The F1 unit has ATPase activity', 'The F1 unit has ATP synthase activity', 'The F1 unit has ATPase and ADP synthase activity', 'The function of Fo is only to anchor F1 to the mitochondrial inner membrane']",The F1 unit has ATP synthase activity,H,Science,Biology,Biochemistry and Molecular Biology,middle,False,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+Regarding the mechanism of ATP synthesis, which of the following statements is correct?
+
+Options:
+A. The F1 unit has ADP synthase activity
+B. F1 provides the transmembrane proton channel
+C. The backflow of protons against the concentration gradient drives ATP synthesis
+D. The F1 unit has ADPase activity
+E. The F1 unit has ATPase and ATP synthase activity
+F. The conformation of subunit b remains unchanged
+G. The F1 unit has ATPase activity
+H. The F1 unit has ATP synthase activity
+I. The F1 unit has ATPase and ADP synthase activity
+J. The function of Fo is only to anchor F1 to the mitochondrial inner membrane
+"
+3ccd08b1693b45dfaf656e92b9dd13ac,The removal of type I self-splicing introns requires ( ).,"['catalysis by a spliceosome', 'initiation of splicing by a free guanosine', 'completion by two transesterification reactions', 'completion by one transesterification reaction', 'common in the processing of mammalian rRNA', 'completion by four transesterification reactions', 'completion by a single transesterification reaction', 'completion by two transglycosylation reactions', 'completion by three transesterification reactions', 'initiation of splicing by a free adenosine']",completion by two transesterification reactions,C,Science,Biology,Biochemistry and Molecular Biology,middle,False,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+The removal of type I self-splicing introns requires ( ).
+
+Options:
+A. catalysis by a spliceosome
+B. initiation of splicing by a free guanosine
+C. completion by two transesterification reactions
+D. completion by one transesterification reaction
+E. common in the processing of mammalian rRNA
+F. completion by four transesterification reactions
+G. completion by a single transesterification reaction
+H. completion by two transglycosylation reactions
+I. completion by three transesterification reactions
+J. initiation of splicing by a free adenosine
+"
+8802b2d7b99f4b0b8d3485a5d41de47c,"When P32-labeled phosphate molecules are added to the cell culture medium, and ATP is isolated from the cells in a short time, it is found that the amount of ATP does not change much, but some of the terminal P of ATP has been labeled with P32. This phenomenon indicates:","['The P second farthest from A in ATP is prone to detach', 'The P farthest from A in ATP is prone to attach', 'ATP is the direct energy source in cells', 'The P closest to A in ATP is prone to detach', 'The P farthest from A in ATP is prone to detach', 'Some P32-labeled ATP is resynthesized', 'The P second from A in ATP is prone to detach', 'The P farthest from A in ATP is prone to reattach', 'The P farthest from A in ATP is prone to reattach and detach', 'In this process, there is both synthesis and hydrolysis of ATP']",The P farthest from A in ATP is prone to detach,E,Science,Biology,Biochemistry and Molecular Biology,middle,False,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+When P32-labeled phosphate molecules are added to the cell culture medium, and ATP is isolated from the cells in a short time, it is found that the amount of ATP does not change much, but some of the terminal P of ATP has been labeled with P32. This phenomenon indicates:
+
+Options:
+A. The P second farthest from A in ATP is prone to detach
+B. The P farthest from A in ATP is prone to attach
+C. ATP is the direct energy source in cells
+D. The P closest to A in ATP is prone to detach
+E. The P farthest from A in ATP is prone to detach
+F. Some P32-labeled ATP is resynthesized
+G. The P second from A in ATP is prone to detach
+H. The P farthest from A in ATP is prone to reattach
+I. The P farthest from A in ATP is prone to reattach and detach
+J. In this process, there is both synthesis and hydrolysis of ATP
+"
+6e1400b5af3f4a3ca21f18eb6559373e,"Based on the components obtained from the hydrolysis of individual peptides, deduce the sequence of amino acid residues in the peptide:
+The components containing arginine, proline, glycine, serine, and phenylalanine decompose into the following fragments: Arg-Pro-Pro, Gly-Phe-Ser, Pro-Phe-Arg, Pro-Gly-Phe, Ser-Pro-Phe.
+It is ____.","['Phe-Pro-Arg-Gly-Ser Pro-Gly-Glu-Phe-Pro (echoes viable assembly).', 'Phe-Ser-Pro-Gly-Gly Pro-Pro-Glu-Phe-Phe (imitates theoretical chain).', 'Gly-Ser-Pro-Arg-Phe Phe-Ser-Glu-Pro-Phe (portrays alternate sequence).', 'Ser-Phe-Arg-Pro-Phe Gly-Pro-Glu-Pro-Phe (suggests common sequence).', 'Pro-Gly-Phe-Ser-Pro Phe-Phe-Glu-Pro-Pro (can be a cyclic polypeptide).', 'Gly-Phe-Arg-Pro-Pro Phe-Ser-Glu-Gly-Phe (resembles plausible chain).', 'Arg-Phe-Pro-Gly-Gly Pro-Ser-Glu-Phe-Arg (appears linear variant).', 'Ser-Gly-Pro-Phe-Phe Pro-Phe-Glu-Arg-Arg (mimics potential structure).', 'Pro-Arg-Ser-Phe-Gly Pro-Phe-Glu-Phe-Gly (likewise conceivable layout).', 'Gly-Arg-Ser-Pro-Pro Phe-Phe-Glu-Phe-Gly (resembles linear arrangement).']",Pro-Gly-Phe-Ser-Pro Phe-Phe-Glu-Pro-Pro (can be a cyclic polypeptide).,E,Science,Biology,Biochemistry and Molecular Biology,hard,False,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+Based on the components obtained from the hydrolysis of individual peptides, deduce the sequence of amino acid residues in the peptide:
+The components containing arginine, proline, glycine, serine, and phenylalanine decompose into the following fragments: Arg-Pro-Pro, Gly-Phe-Ser, Pro-Phe-Arg, Pro-Gly-Phe, Ser-Pro-Phe.
+It is ____.
+
+Options:
+A. Phe-Pro-Arg-Gly-Ser Pro-Gly-Glu-Phe-Pro (echoes viable assembly).
+B. Phe-Ser-Pro-Gly-Gly Pro-Pro-Glu-Phe-Phe (imitates theoretical chain).
+C. Gly-Ser-Pro-Arg-Phe Phe-Ser-Glu-Pro-Phe (portrays alternate sequence).
+D. Ser-Phe-Arg-Pro-Phe Gly-Pro-Glu-Pro-Phe (suggests common sequence).
+E. Pro-Gly-Phe-Ser-Pro Phe-Phe-Glu-Pro-Pro (can be a cyclic polypeptide).
+F. Gly-Phe-Arg-Pro-Pro Phe-Ser-Glu-Gly-Phe (resembles plausible chain).
+G. Arg-Phe-Pro-Gly-Gly Pro-Ser-Glu-Phe-Arg (appears linear variant).
+H. Ser-Gly-Pro-Phe-Phe Pro-Phe-Glu-Arg-Arg (mimics potential structure).
+I. Pro-Arg-Ser-Phe-Gly Pro-Phe-Glu-Phe-Gly (likewise conceivable layout).
+J. Gly-Arg-Ser-Pro-Pro Phe-Phe-Glu-Phe-Gly (resembles linear arrangement).
+"
+2ced4b4da0c44003b4a396f088d2c15e,"If the concentrations of ADP and Pi inside the cell are $3mM$ and $1mM$ respectively, and the standard free energy change for ATP hydrolysis is $\Delta G^{\circ}=-7.3 \mathrm{kcal} \cdot \mathrm{mol}^{-1}$, try to calculate the concentration of ATP at equilibrium (temperature is 37°C). However, under these conditions, if the concentration of ATP is $10mM$, what would be the $\Delta G_{T\cdot P}$ of the reaction $\mathbf{ATP} \rightarrow \mathbf{ADP} + \mathbf{Pi}$?","['$$\n- 5 1. 2 9 \\mathbf{k J} \\cdot\\mathrm{m o l}^{-1}\n$$', '$$\n- 5 3. 6 6 \\mathbf{k J} \\cdot\\mathrm{m o l}^{-1}\n$$', '$$\n- 4 9. 8 5 \\mathbf{k J} \\cdot\\mathrm{m o l}^{-1}\n$$', '$$\n- 4 2. 1 0 \\mathbf{k J} \\cdot\\mathrm{m o l}^{-1}\n$$', '$$\n- 6 2. 3 4 \\mathbf{k J} \\cdot\\mathrm{m o l}^{-1}\n$$', '$$\n- 5 5. 4 0 \\mathbf{k J} \\cdot\\mathrm{m o l}^{-1}\n$$', '$$\n- 5 8. 7 8 \\mathbf{k J} \\cdot\\mathrm{m o l}^{-1}\n$$', '$$\n- 6 0. 1 9 \\mathbf{k J} \\cdot\\mathrm{m o l}^{-1}\n$$', '$$\n- 5 0. 9 4 \\mathbf{k J} \\cdot\\mathrm{m o l}^{-1}\n$$', '$$\n- 4 7. 3 2 \\mathbf{k J} \\cdot\\mathrm{m o l}^{-1}\n$$']","$$
+- 5 1. 2 9 \mathbf{k J} \cdot\mathrm{m o l}^{-1}
+$$",A,Science,Biology,Biochemistry and Molecular Biology,hard,True,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+If the concentrations of ADP and Pi inside the cell are $3mM$ and $1mM$ respectively, and the standard free energy change for ATP hydrolysis is $\Delta G^{\circ}=-7.3 \mathrm{kcal} \cdot \mathrm{mol}^{-1}$, try to calculate the concentration of ATP at equilibrium (temperature is 37°C). However, under these conditions, if the concentration of ATP is $10mM$, what would be the $\Delta G_{T\cdot P}$ of the reaction $\mathbf{ATP} \rightarrow \mathbf{ADP} + \mathbf{Pi}$?
+
+Options:
+A. $$
+- 5 1. 2 9 \mathbf{k J} \cdot\mathrm{m o l}^{-1}
+$$
+B. $$
+- 5 3. 6 6 \mathbf{k J} \cdot\mathrm{m o l}^{-1}
+$$
+C. $$
+- 4 9. 8 5 \mathbf{k J} \cdot\mathrm{m o l}^{-1}
+$$
+D. $$
+- 4 2. 1 0 \mathbf{k J} \cdot\mathrm{m o l}^{-1}
+$$
+E. $$
+- 6 2. 3 4 \mathbf{k J} \cdot\mathrm{m o l}^{-1}
+$$
+F. $$
+- 5 5. 4 0 \mathbf{k J} \cdot\mathrm{m o l}^{-1}
+$$
+G. $$
+- 5 8. 7 8 \mathbf{k J} \cdot\mathrm{m o l}^{-1}
+$$
+H. $$
+- 6 0. 1 9 \mathbf{k J} \cdot\mathrm{m o l}^{-1}
+$$
+I. $$
+- 5 0. 9 4 \mathbf{k J} \cdot\mathrm{m o l}^{-1}
+$$
+J. $$
+- 4 7. 3 2 \mathbf{k J} \cdot\mathrm{m o l}^{-1}
+$$
+"
+8f09ed9a7bfc429faf6e0ff6b84b43a0,"The $K_{m} \!=\! 2.9 \times 10^{-4} M$ and $K_{i} \!=\! 2 \times 10^{-5} M$ for a certain enzyme. When $\left[ S \right]= 1.5 \times 10^{-3} M$, what concentration of a competitive inhibitor will result in 75% inhibition?","['$$\n9. 4 \\times 1 0^{-8} M\n$$', '$$\n8. 3 \\times 1 0^{-3} M\n$$', '$$\n3. 7 \\times1 0^{-4} M\n$$', '$$\n2. 6 \\times 1 0^{-5} M\n$$', '$$\n2. 1 \\times 1 0^{-4} M\n$$', '$$\n4. 5 \\times 1 0^{-5} M\n$$', '$$\n1. 5 \\times 1 0^{-7} M\n$$', '$$\n5. 9 \\times 1 0^{-3} M\n$$', '$$\n7. 2 \\times 1 0^{-6} M\n$$', '$$\n6. 8 \\times 1 0^{-4} M\n$$']","$$
+3. 7 \times1 0^{-4} M
+$$",C,Science,Biology,Biochemistry and Molecular Biology,hard,True,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+The $K_{m} \!=\! 2.9 \times 10^{-4} M$ and $K_{i} \!=\! 2 \times 10^{-5} M$ for a certain enzyme. When $\left[ S \right]= 1.5 \times 10^{-3} M$, what concentration of a competitive inhibitor will result in 75% inhibition?
+
+Options:
+A. $$
+9. 4 \times 1 0^{-8} M
+$$
+B. $$
+8. 3 \times 1 0^{-3} M
+$$
+C. $$
+3. 7 \times1 0^{-4} M
+$$
+D. $$
+2. 6 \times 1 0^{-5} M
+$$
+E. $$
+2. 1 \times 1 0^{-4} M
+$$
+F. $$
+4. 5 \times 1 0^{-5} M
+$$
+G. $$
+1. 5 \times 1 0^{-7} M
+$$
+H. $$
+5. 9 \times 1 0^{-3} M
+$$
+I. $$
+7. 2 \times 1 0^{-6} M
+$$
+J. $$
+6. 8 \times 1 0^{-4} M
+$$
+"
+51320fbbcaf84690b72e1242f568ab81,"Glutamate Dehydrogenase Catalyzed Reaction:
+Glutamate $+ \mathbf{NAD}^{+} + \mathbf{H}_{2}O ⇄ \alpha$-ketoglutarate $+ NADH$
+$$+ \mathbf{NH}_{4}^{+} + \mathbf{H}^{+}$$
+The initial concentrations of glutamate and $NAD^{+}$ are $20 \, \text{mM}$ and $1 \, \text{mM}$ respectively. If the reaction takes place in a phosphate buffer at $pH 7$. The concentration of $NADH$ is measured by spectrophotometry. $A_{340 \text{nm}}$ (in a absorption cup with a thickness of 1 cm) increases to 0.561. Calculate the equilibrium constant for the above reaction.","['$$\n9. 0 1 \\times1 0^{-9} \\; M\n$$', '$$\n4. 7 8 \\times1 0^{-5} \\; M\n$$', '$$\n8. 9 3 \\times1 0^{-7} \\; M\n$$', '$$\n1. 9 9 \\times1 0^{-1 2} \\; M\n$$', '$$\n7. 6 4 \\times1 0^{-1 1} \\; M\n$$', '$$\n2. 3 1 \\times1 0^{-1 4} \\; M\n$$', '$$\n6. 4 7 \\times1 0^{-8} \\; M\n$$', '$$\n3. 5 2 \\times1 0^{-6} \\; M\n$$', '$$\n4. 0 5 \\times1 0^{-1 5} \\; M\n$$', '$$\n5. 8 7 \\times1 0^{-1 3} \\; M\n$$']","$$
+4. 0 5 \times1 0^{-1 5} \; M
+$$",I,Science,Biology,Biochemistry and Molecular Biology,hard,True,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+Glutamate Dehydrogenase Catalyzed Reaction:
+Glutamate $+ \mathbf{NAD}^{+} + \mathbf{H}_{2}O ⇄ \alpha$-ketoglutarate $+ NADH$
+$$+ \mathbf{NH}_{4}^{+} + \mathbf{H}^{+}$$
+The initial concentrations of glutamate and $NAD^{+}$ are $20 \, \text{mM}$ and $1 \, \text{mM}$ respectively. If the reaction takes place in a phosphate buffer at $pH 7$. The concentration of $NADH$ is measured by spectrophotometry. $A_{340 \text{nm}}$ (in a absorption cup with a thickness of 1 cm) increases to 0.561. Calculate the equilibrium constant for the above reaction.
+
+Options:
+A. $$
+9. 0 1 \times1 0^{-9} \; M
+$$
+B. $$
+4. 7 8 \times1 0^{-5} \; M
+$$
+C. $$
+8. 9 3 \times1 0^{-7} \; M
+$$
+D. $$
+1. 9 9 \times1 0^{-1 2} \; M
+$$
+E. $$
+7. 6 4 \times1 0^{-1 1} \; M
+$$
+F. $$
+2. 3 1 \times1 0^{-1 4} \; M
+$$
+G. $$
+6. 4 7 \times1 0^{-8} \; M
+$$
+H. $$
+3. 5 2 \times1 0^{-6} \; M
+$$
+I. $$
+4. 0 5 \times1 0^{-1 5} \; M
+$$
+J. $$
+5. 8 7 \times1 0^{-1 3} \; M
+$$
+"
+824fcc610c5548b288555203a3ddd8aa,"As proteins pass through the Sephadex column, the order in which proteins are eluted from the column is ___.","['Proteins with higher molecular weights are eluted first', 'Proteins with lower molecular weights are eluted first', 'Proteins with differing molecular diameters are sorted first', 'Proteins are arranged by secondary structures first', 'Proteins with similar molecular weights are eluted together', 'Proteins are sorted by tertiary structures first', 'Proteins with equal molecular weights are eluted last', 'Proteins with reversible binding properties are eluted first', 'Proteins with intermediate molecular weights are eluted first', 'Proteins with varying molecular weights are eluted randomly']",Proteins with higher molecular weights are eluted first,A,Science,Biology,Biochemistry and Molecular Biology,middle,False,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+As proteins pass through the Sephadex column, the order in which proteins are eluted from the column is ___.
+
+Options:
+A. Proteins with higher molecular weights are eluted first
+B. Proteins with lower molecular weights are eluted first
+C. Proteins with differing molecular diameters are sorted first
+D. Proteins are arranged by secondary structures first
+E. Proteins with similar molecular weights are eluted together
+F. Proteins are sorted by tertiary structures first
+G. Proteins with equal molecular weights are eluted last
+H. Proteins with reversible binding properties are eluted first
+I. Proteins with intermediate molecular weights are eluted first
+J. Proteins with varying molecular weights are eluted randomly
+"
+91b7f8307c684a279acb4a191f76393a,The two different pathways for the synthesis of lecithin in organisms are ___ and ___.,"['Cellular integration route, CMP-choline process', 'Phospholipid biosynthesis, choline phosphotransferase method', 'Cholesterol synthase process, CMP-glycerol pathway', 'Lecithin precursor route, CDP-choline pathway', 'Glycerol diester pathway, CDP-glycerol diester pathway', 'Fatty acid process, glycerol-phosphate pathway', 'Ether lipid cycle, CDP-ethanolamine method', 'Lipid transfer sequence, CDP-lipid transfer method', 'Cell membrane route, phosphatidylcholine synthesis', 'Glycerol ester cycle, CMP-glycerol ester process']","Glycerol diester pathway, CDP-glycerol diester pathway",E,Science,Biology,Biochemistry and Molecular Biology,middle,False,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+The two different pathways for the synthesis of lecithin in organisms are ___ and ___.
+
+Options:
+A. Cellular integration route, CMP-choline process
+B. Phospholipid biosynthesis, choline phosphotransferase method
+C. Cholesterol synthase process, CMP-glycerol pathway
+D. Lecithin precursor route, CDP-choline pathway
+E. Glycerol diester pathway, CDP-glycerol diester pathway
+F. Fatty acid process, glycerol-phosphate pathway
+G. Ether lipid cycle, CDP-ethanolamine method
+H. Lipid transfer sequence, CDP-lipid transfer method
+I. Cell membrane route, phosphatidylcholine synthesis
+J. Glycerol ester cycle, CMP-glycerol ester process
+"
+8d378ad04c7340e7a217308ede45cbeb,"The base composition of a single-stranded positive-sense DNA is A 21%, G 29%. After replication, the base composition of A and G in the product catalyzed by RNA polymerase transcription is ___ and ___.","['30%, 28%', '21%, 29%', '26%, 24%', '22%, 28%', '19%, 31%', '20%, 30%', '29%, 21%', '25%, 25%', '27%, 23%', '24%, 26%']","21%, 29%",B,Science,Biology,Biochemistry and Molecular Biology,middle,False,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+The base composition of a single-stranded positive-sense DNA is A 21%, G 29%. After replication, the base composition of A and G in the product catalyzed by RNA polymerase transcription is ___ and ___.
+
+Options:
+A. 30%, 28%
+B. 21%, 29%
+C. 26%, 24%
+D. 22%, 28%
+E. 19%, 31%
+F. 20%, 30%
+G. 29%, 21%
+H. 25%, 25%
+I. 27%, 23%
+J. 24%, 26%
+"
+c58d7a8de3a84c6aa1672e36e6b1242d,"On a single mRNA, multiple ribosomes carry out translation to synthesize the same protein; this phenomenon is referred to as _____.","['proteinsome', 'polysome', 'translatsome', 'multisome', 'ribosome chain', 'monosome', 'multiribosome', 'riboprofile', 'polyribosome', 'transcriptome']",polysome,B,Science,Biology,Biochemistry and Molecular Biology,easy,False,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+On a single mRNA, multiple ribosomes carry out translation to synthesize the same protein; this phenomenon is referred to as _____.
+
+Options:
+A. proteinsome
+B. polysome
+C. translatsome
+D. multisome
+E. ribosome chain
+F. monosome
+G. multiribosome
+H. riboprofile
+I. polyribosome
+J. transcriptome
+"
+4e0b6ed4c51d45d085612362e0feff4e,"When one molecule of succinic acid is dehydrogenated to form malic acid, the removed pair of hydrogen atoms is oxidized through the respiratory chain to produce water, simultaneously generating how many molecules of ATP?","['4', '3', '2.5', '4.5', '1', '3.5', '5', '2', '0.5', '1.5']",1.5,J,Science,Biology,Biochemistry and Molecular Biology,middle,True,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+When one molecule of succinic acid is dehydrogenated to form malic acid, the removed pair of hydrogen atoms is oxidized through the respiratory chain to produce water, simultaneously generating how many molecules of ATP?
+
+Options:
+A. 4
+B. 3
+C. 2.5
+D. 4.5
+E. 1
+F. 3.5
+G. 5
+H. 2
+I. 0.5
+J. 1.5
+"
+464cbf163bd241e6979ddcfc469c18ad,Modifications that can occur on histone Lys residues include ( ).,"['Glycosylation, Methylation, Lactylation, Phosph', 'Methylation, Ubiquitination, Acetylation, Isopeptidation', 'Methylation, Acetylation, Ubiquitination, SUMOylation', 'Hydroxylation, Methylation, Acetylation, Phosphorylation', 'Methylation, Phosphorylation, Acetylation, Hydroxylation', 'Methylation, Acetylation, Phosphorylation, Glycosylation', 'SUMOylation, Methylation, Acetylation, Glycosylation', 'Hydroxylation, Carboxylation, SUMOylation, Methylation', 'Methylation, Acetylation, Phosphorylation, Isoprenylation', 'Methylation, Ubiquitination, Acetylation, Phosphorylation']","Methylation, Acetylation, Ubiquitination, SUMOylation",C,Science,Biology,Biochemistry and Molecular Biology,middle,False,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+Modifications that can occur on histone Lys residues include ( ).
+
+Options:
+A. Glycosylation, Methylation, Lactylation, Phosph
+B. Methylation, Ubiquitination, Acetylation, Isopeptidation
+C. Methylation, Acetylation, Ubiquitination, SUMOylation
+D. Hydroxylation, Methylation, Acetylation, Phosphorylation
+E. Methylation, Phosphorylation, Acetylation, Hydroxylation
+F. Methylation, Acetylation, Phosphorylation, Glycosylation
+G. SUMOylation, Methylation, Acetylation, Glycosylation
+H. Hydroxylation, Carboxylation, SUMOylation, Methylation
+I. Methylation, Acetylation, Phosphorylation, Isoprenylation
+J. Methylation, Ubiquitination, Acetylation, Phosphorylation
+"
+437209a4597c46e79b66377100ab5101,Emulsion PCR belongs to the template preparation methods of which of the following techniques?,"['Polymerase Chain Reaction Amplification', 'Next Generation Sequencing Library Prep', 'Sanger DNA Sequencing Technique', 'Chain Termination DNA Sequencing', 'Transposase-Accessible Chromatin Sequencing', 'Whole Genome Shotgun Sequencing', 'Ion Torrent Sequencing Platform', 'Dual-Labeled Fluorescent Probes Detection', 'Fluorescence Resonance Energy Transfer', 'Automated Capillary Electrophoresis Methods']",Ion Torrent Sequencing Platform,G,Science,Biology,Biochemistry and Molecular Biology,middle,False,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+Emulsion PCR belongs to the template preparation methods of which of the following techniques?
+
+Options:
+A. Polymerase Chain Reaction Amplification
+B. Next Generation Sequencing Library Prep
+C. Sanger DNA Sequencing Technique
+D. Chain Termination DNA Sequencing
+E. Transposase-Accessible Chromatin Sequencing
+F. Whole Genome Shotgun Sequencing
+G. Ion Torrent Sequencing Platform
+H. Dual-Labeled Fluorescent Probes Detection
+I. Fluorescence Resonance Energy Transfer
+J. Automated Capillary Electrophoresis Methods
+"
+d4b8db9ca5c04c6a999b4436cc3cb11a,"The______ is a homogenous and distinct semipermeable membrane located between the radiating crown and the vitelline membrane, primarily composed of glycoproteins. It functions in protection, selection, exchange, and metabolism.","['clear zone', 'radiating layer', 'metabolic film', 'selective barrier', 'glycoprotein structure', 'exchange membrane', 'vitelline layer', 'inner boundary', 'outer covering', 'protective sheath']",clear zone,A,Science,Biology,Biochemistry and Molecular Biology,middle,False,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+The______ is a homogenous and distinct semipermeable membrane located between the radiating crown and the vitelline membrane, primarily composed of glycoproteins. It functions in protection, selection, exchange, and metabolism.
+
+Options:
+A. clear zone
+B. radiating layer
+C. metabolic film
+D. selective barrier
+E. glycoprotein structure
+F. exchange membrane
+G. vitelline layer
+H. inner boundary
+I. outer covering
+J. protective sheath
+"
+a311ee23bc2449e8895cce158e7a0735,"The metabolic pathways occurring in the cytoplasm include glycolysis, the pentose phosphate pathway, and _________.","['mitochondrial biogenesis', 'fatty acid synthesis', 'cholesterol breakdown', 'ketone body formation', 'DNA replication', 'oxidative phosphorylation', 'alcohol fermentation', 'protein degradation', 'aerobic respiration', 'nitrogen fixation']",fatty acid synthesis,B,Science,Biology,Biochemistry and Molecular Biology,easy,False,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+The metabolic pathways occurring in the cytoplasm include glycolysis, the pentose phosphate pathway, and _________.
+
+Options:
+A. mitochondrial biogenesis
+B. fatty acid synthesis
+C. cholesterol breakdown
+D. ketone body formation
+E. DNA replication
+F. oxidative phosphorylation
+G. alcohol fermentation
+H. protein degradation
+I. aerobic respiration
+J. nitrogen fixation
+"
+16a13c35046c4d5ba7b779bf8bb1f284,What is the method for preparing slides to observe the morphology of starch granules in powder?,"['5% NaOH Solution Preparation', 'Diluted Iodine Solution Slide', 'Fresh Potato Staining', 'Freeze-Drying Technique', 'Distilled Water Slide', 'Ethanol Slide', 'Glycerin Mounting Solution', 'Gelatin Imprint Slide', 'Formaldehyde Vapor Slide', 'Hydrated Chloral Hydrate Cleared Slide']",Distilled Water Slide,E,Science,Biology,Biochemistry and Molecular Biology,middle,False,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+What is the method for preparing slides to observe the morphology of starch granules in powder?
+
+Options:
+A. 5% NaOH Solution Preparation
+B. Diluted Iodine Solution Slide
+C. Fresh Potato Staining
+D. Freeze-Drying Technique
+E. Distilled Water Slide
+F. Ethanol Slide
+G. Glycerin Mounting Solution
+H. Gelatin Imprint Slide
+I. Formaldehyde Vapor Slide
+J. Hydrated Chloral Hydrate Cleared Slide
+"
+90d35d61c34c47ba9994abc181d46482,What is a Super Secondary Structure?,"['It refers to the construction where secondary elements that are sequentially dispersed in a newly formed chain frequently overlap in spatial schemes, collaborate exclusively, and assemble independent aggregates.', 'It refers to the system wherein secondary units that are sequentially distant in a protein sequence often touch in spatial alignment, interact regularly, and form distinct complexes.', 'It references the scenario where secondary configurations that are sequentially separate in amino acid chains regularly intersect in three-dimensional layouts, interact invariably, and create distinctive structures.', 'It refers to the episode where secondary compounds that are sequentially detached in a protein sequence typically converge in spatial formation, interact sometimes, and compile separate assemblages.', 'It refers to the occurrence where secondary formations that are sequentially distant in a peptide sequence often converge in spatial arrangement, interact marginally, and remain separate entities.', 'It refers to the instance where secondary structures that are sequentially distant in a polypeptide chain seldom meet in spatial folding, interact separately, and remain unconnected structures.', 'It describes the event where secondary systems that are sequentially distant in a protein sequence frequently link in spatial form, bond partially, and devise isolated schemes.', 'It refers to the condition where secondary arrangements that are sequentially spaced in a peptide sequence usually align in spatial configuration, interact occasionally, and form isolated structures.', 'It refers to the phenomenon where secondary structures that are sequentially adjacent in a polypeptide chain are often close in spatial folding, interact with each other, and form secondary structure aggregates.', 'It describes the pattern where secondary entities that are sequentially next in a polypeptide chain occasionally meet in spatial folding, interact together, and form secondary structure coagulates.']","It refers to the phenomenon where secondary structures that are sequentially adjacent in a polypeptide chain are often close in spatial folding, interact with each other, and form secondary structure aggregates.",I,Science,Biology,Biochemistry and Molecular Biology,middle,False,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+What is a Super Secondary Structure?
+
+Options:
+A. It refers to the construction where secondary elements that are sequentially dispersed in a newly formed chain frequently overlap in spatial schemes, collaborate exclusively, and assemble independent aggregates.
+B. It refers to the system wherein secondary units that are sequentially distant in a protein sequence often touch in spatial alignment, interact regularly, and form distinct complexes.
+C. It references the scenario where secondary configurations that are sequentially separate in amino acid chains regularly intersect in three-dimensional layouts, interact invariably, and create distinctive structures.
+D. It refers to the episode where secondary compounds that are sequentially detached in a protein sequence typically converge in spatial formation, interact sometimes, and compile separate assemblages.
+E. It refers to the occurrence where secondary formations that are sequentially distant in a peptide sequence often converge in spatial arrangement, interact marginally, and remain separate entities.
+F. It refers to the instance where secondary structures that are sequentially distant in a polypeptide chain seldom meet in spatial folding, interact separately, and remain unconnected structures.
+G. It describes the event where secondary systems that are sequentially distant in a protein sequence frequently link in spatial form, bond partially, and devise isolated schemes.
+H. It refers to the condition where secondary arrangements that are sequentially spaced in a peptide sequence usually align in spatial configuration, interact occasionally, and form isolated structures.
+I. It refers to the phenomenon where secondary structures that are sequentially adjacent in a polypeptide chain are often close in spatial folding, interact with each other, and form secondary structure aggregates.
+J. It describes the pattern where secondary entities that are sequentially next in a polypeptide chain occasionally meet in spatial folding, interact together, and form secondary structure coagulates.
+"
+926ce52f1d2041a186c98733aa81a674,Which component in the electron transport chain is lipid-soluble?,"['Flavoprotein', 'Cytochrome c oxidase', 'Cytochrome', 'Coenzyme Q', 'Succinate dehydrogenase', 'Iron-sulfur protein', 'Complex III', 'FADH₂', 'Ubiquinone', 'NADH dehydrogenase']",Cytochrome,C,Science,Biology,Biochemistry and Molecular Biology,middle,False,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+Which component in the electron transport chain is lipid-soluble?
+
+Options:
+A. Flavoprotein
+B. Cytochrome c oxidase
+C. Cytochrome
+D. Coenzyme Q
+E. Succinate dehydrogenase
+F. Iron-sulfur protein
+G. Complex III
+H. FADH₂
+I. Ubiquinone
+J. NADH dehydrogenase
+"
+3328a1dde4ac47349e451f34414e20da,Which of the following substances cannot pass directly through the mitochondrial inner membrane with the help of carrier proteins?,"['Acyl-CoA', 'Cytidine diphosphate', 'Malic acid', 'ATP', 'Citric acid', 'Succinic acid', 'Isocitric acid', 'Pyruvate', 'Acetyl-CoA', 'Phosphate']",Acetyl-CoA,I,Science,Biology,Biochemistry and Molecular Biology,middle,False,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+Which of the following substances cannot pass directly through the mitochondrial inner membrane with the help of carrier proteins?
+
+Options:
+A. Acyl-CoA
+B. Cytidine diphosphate
+C. Malic acid
+D. ATP
+E. Citric acid
+F. Succinic acid
+G. Isocitric acid
+H. Pyruvate
+I. Acetyl-CoA
+J. Phosphate
+"
+aca256f789894d4e9b8d3f9dde3cd9b5,What is proteomics?,"['Studying the direct interactions between proteins and RNA', 'Energy Consumption in the Process of Protein Synthesis', 'Research on the expressed metalloproteins of a genome', 'Study of proteins commonly found in all living organisms', 'Studying protein sequences to discover new proteins', 'Study of Protein Transport Mechanisms in Organisms', 'Study of DNA and Protein Complexes', 'Research on the Effects of Gene Mutations on Proteins', 'Research on the localization of proteins on the cell membrane', 'Investigating how proteins promote cell division']",Research on the expressed metalloproteins of a genome,C,Science,Biology,Biochemistry and Molecular Biology,easy,False,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+What is proteomics?
+
+Options:
+A. Studying the direct interactions between proteins and RNA
+B. Energy Consumption in the Process of Protein Synthesis
+C. Research on the expressed metalloproteins of a genome
+D. Study of proteins commonly found in all living organisms
+E. Studying protein sequences to discover new proteins
+F. Study of Protein Transport Mechanisms in Organisms
+G. Study of DNA and Protein Complexes
+H. Research on the Effects of Gene Mutations on Proteins
+I. Research on the localization of proteins on the cell membrane
+J. Investigating how proteins promote cell division
+"
+558efad3062b4cb4a5fc23dae11c67ae,"Which of the following statements about Phe-Leu-Ala-Val-Phe-Leu-Lys is correct?
+(1) It is a hexapeptide.
+(2) It is a basic polypeptide.
+(3) It has no affinity for lipid surfaces.
+(4) Its isoelectric point is greater than 8.","['(1) (2) (3) (4)', '(1) (2)', '(1) (2) (3)', '(3) (4)', '(1) (3) (2)', '(4)', '(1) (4)', '(1) (3)', '(2) (4)', '(1) (3) (4)']",(2) (4),I,Science,Biology,Biochemistry and Molecular Biology,middle,False,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+Which of the following statements about Phe-Leu-Ala-Val-Phe-Leu-Lys is correct?
+(1) It is a hexapeptide.
+(2) It is a basic polypeptide.
+(3) It has no affinity for lipid surfaces.
+(4) Its isoelectric point is greater than 8.
+
+Options:
+A. (1) (2) (3) (4)
+B. (1) (2)
+C. (1) (2) (3)
+D. (3) (4)
+E. (1) (3) (2)
+F. (4)
+G. (1) (4)
+H. (1) (3)
+I. (2) (4)
+J. (1) (3) (4)
+"
+711c4086b8af46e69da49a2ef19bb72a,"A solution contains 1 mg per ml of myosin and 10^14 latex particles per ml. When a given volume of this solution is dried on a grid and viewed under the electron microscope, a typical field contains 122 protein molecules and 10 latex particles. Calculate the molecular weight of myosin.","['7.93 × 10^5 g / mole', '6.93 × 10^5 g / mole', '4.93 × 10^5 g / mole', '5.93 × 10^6 g / mole', '3.93 × 10^6 g / mole', '3.93 × 10^5 g / mole', '5.93 × 10^5 g / mole', '2.93 × 10^5 g / mole', '4.93 × 10^6 g / mole', '4.93 × 10^4 g / mole']",4.93 × 10^5 g / mole,C,Science,Biology,Biochemistry and Molecular Biology,middle,True,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+A solution contains 1 mg per ml of myosin and 10^14 latex particles per ml. When a given volume of this solution is dried on a grid and viewed under the electron microscope, a typical field contains 122 protein molecules and 10 latex particles. Calculate the molecular weight of myosin.
+
+Options:
+A. 7.93 × 10^5 g / mole
+B. 6.93 × 10^5 g / mole
+C. 4.93 × 10^5 g / mole
+D. 5.93 × 10^6 g / mole
+E. 3.93 × 10^6 g / mole
+F. 3.93 × 10^5 g / mole
+G. 5.93 × 10^5 g / mole
+H. 2.93 × 10^5 g / mole
+I. 4.93 × 10^6 g / mole
+J. 4.93 × 10^4 g / mole
+"
+1af0b022515c4c799568572f0c32d86a,"If the activity of an enzyme is constant over a broad range of pH values, it is likely that","['no ionizing groups on the enzyme or substrate participate in the reaction', 'non-ionizing groups on both the enzyme and substrate participate in the reaction', 'ionizing groups on both the enzyme and substrate participate in the reaction', 'the enzyme and substrate are both inactive at all pH values', 'only non-ionizing groups on the substrate participate in the reaction', 'the substrate is inactive at all pH values', 'only ionizing groups on the enzyme participate in the reaction', 'only non-ionizing groups on the enzyme participate in the reaction', 'only ionizing groups on the substrate participate in the reaction', 'the enzyme is inactive at all pH values']",no ionizing groups on the enzyme or substrate participate in the reaction,A,Science,Biology,Biochemistry and Molecular Biology,middle,False,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+If the activity of an enzyme is constant over a broad range of pH values, it is likely that
+
+Options:
+A. no ionizing groups on the enzyme or substrate participate in the reaction
+B. non-ionizing groups on both the enzyme and substrate participate in the reaction
+C. ionizing groups on both the enzyme and substrate participate in the reaction
+D. the enzyme and substrate are both inactive at all pH values
+E. only non-ionizing groups on the substrate participate in the reaction
+F. the substrate is inactive at all pH values
+G. only ionizing groups on the enzyme participate in the reaction
+H. only non-ionizing groups on the enzyme participate in the reaction
+I. only ionizing groups on the substrate participate in the reaction
+J. the enzyme is inactive at all pH values
+"
+c348732982bb4dbc911754b6949ac4ee,"There is a tetrapeptide that, after hydrolysis by chymotrypsin, produces a dipeptide (Ser-Arg) and two Phe (Ser-serine, Arg-arginine, Phe-phenylalanine). What is the sequence of this tetrapeptide?","['Phe-Phe-Ser-Arg', 'Ser-Arg-Phe-Phe', 'Phe-Ser-Arg-Phe', 'Phe-Arg-Ser-Phe', 'Ser-Phe-Phe-Arg', 'Ser-Phe-Arg-Phe', 'Phe-Ser-Phe-Arg', 'Arg-Ser-Phe-Phe', 'Arg-Phe-Phe-Ser', 'None of the above answers are correct.']",Ser-Arg-Phe-Phe,B,Science,Biology,Biochemistry and Molecular Biology,hard,False,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+There is a tetrapeptide that, after hydrolysis by chymotrypsin, produces a dipeptide (Ser-Arg) and two Phe (Ser-serine, Arg-arginine, Phe-phenylalanine). What is the sequence of this tetrapeptide?
+
+Options:
+A. Phe-Phe-Ser-Arg
+B. Ser-Arg-Phe-Phe
+C. Phe-Ser-Arg-Phe
+D. Phe-Arg-Ser-Phe
+E. Ser-Phe-Phe-Arg
+F. Ser-Phe-Arg-Phe
+G. Phe-Ser-Phe-Arg
+H. Arg-Ser-Phe-Phe
+I. Arg-Phe-Phe-Ser
+J. None of the above answers are correct.
+"
+6e5558f98d274e6aa71eb95c4c60ffb8,What is the name of the female molecular biologist who received the Shaw Prize in 2015?,"['Bonnie L Bassler', 'Bonnie L. Bessler', 'Bonnie L. Baster', 'Bonnie L. Baskler', 'Bonnie L. Bassler', 'Bonnie L. Basker', 'Bonnie L. Basser', 'Bonnie L. Basler']",Bonnie L Bassler,A,Science,Biology,Biochemistry and Molecular Biology,easy,False,8,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+What is the name of the female molecular biologist who received the Shaw Prize in 2015?
+
+Options:
+A. Bonnie L Bassler
+B. Bonnie L. Bessler
+C. Bonnie L. Baster
+D. Bonnie L. Baskler
+E. Bonnie L. Bassler
+F. Bonnie L. Basker
+G. Bonnie L. Basser
+H. Bonnie L. Basler
+"
+3baefca485f24e1ea5b00512950e1155,Which of the following proteases is involved in the DNA replication process?,"['Transcriptase', 'RNA Polymerase', 'Histone deacetylase', 'Methyltransferase', 'Serine endopeptidases', 'metalloproteinase', 'Restrictase', 'Endonuclease', 'Helicase', 'Aminotransferase']",Helicase,I,Science,Biology,Biochemistry and Molecular Biology,easy,False,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+Which of the following proteases is involved in the DNA replication process?
+
+Options:
+A. Transcriptase
+B. RNA Polymerase
+C. Histone deacetylase
+D. Methyltransferase
+E. Serine endopeptidases
+F. metalloproteinase
+G. Restrictase
+H. Endonuclease
+I. Helicase
+J. Aminotransferase
+"
+15257823bf2e4600841cd6f4431dd247,What is Donnan Equilibrium?,"['When the biofilm is in a resting state, all permeable ions within the membrane will differ in Nernst potential.', 'When the biofilm is in a resting state, all permeable ions within the membrane will change in Nernst potential.', 'When the biofilm is in a passive state, all impermeable ions within the membrane will have the same Nernst potential.', 'When the organism is in a resting state, all permeable ions within the membrane will differ in Nernst potential.', 'When the organism is in a resting state, all impermeable ions within the membrane will differ in Nernst potential.', 'When the biofilm is in a resting state, all permeable ions within the membrane will have the same Nernst potential.', 'When the biofilm is in a passive state, all permeable ions within the membrane will have the same Nernst potential.', 'When the biofilm is in a volatile state, all permeable ions within the membrane will have the same Nernst potential.', 'When the biofilm is in an active state, all impermeable ions within the membrane will differ in Nernst potential.', 'When the biofilm is in an active state, all impermeable ions within the membrane have the same Nernst potential.']","When the biofilm is in a resting state, all permeable ions within the membrane will have the same Nernst potential.",F,Science,Biology,Biochemistry and Molecular Biology,middle,False,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+What is Donnan Equilibrium?
+
+Options:
+A. When the biofilm is in a resting state, all permeable ions within the membrane will differ in Nernst potential.
+B. When the biofilm is in a resting state, all permeable ions within the membrane will change in Nernst potential.
+C. When the biofilm is in a passive state, all impermeable ions within the membrane will have the same Nernst potential.
+D. When the organism is in a resting state, all permeable ions within the membrane will differ in Nernst potential.
+E. When the organism is in a resting state, all impermeable ions within the membrane will differ in Nernst potential.
+F. When the biofilm is in a resting state, all permeable ions within the membrane will have the same Nernst potential.
+G. When the biofilm is in a passive state, all permeable ions within the membrane will have the same Nernst potential.
+H. When the biofilm is in a volatile state, all permeable ions within the membrane will have the same Nernst potential.
+I. When the biofilm is in an active state, all impermeable ions within the membrane will differ in Nernst potential.
+J. When the biofilm is in an active state, all impermeable ions within the membrane have the same Nernst potential.
+"
+d853d79db2fd4f06911b6a7bb220978f,"When a polypeptide chain begins to fold, many 'folding nuclei' first form in a certain region of the polypeptide chain. The formation of these nuclei is the rate-limiting step in the initial stage of folding. A polypeptide chain can have multiple nuclei, and each nucleus expands to both sides, allowing the entire polypeptide chain to quickly fold into its native conformation. This folding method is called ()","['Nucleation-Immediate Growth Model', 'Nucleation-Sequential Growth Model', 'Kinetic Model', 'Nucleation-Slow Growth Model', 'Nucleation-Parallel Growth Model', 'Puzzle Model', 'Nucleation-Progressive Growth Model', 'Nucleation-Instantaneous Growth Model', 'Nucleation-Rapid Growth Model', 'Framework Model']",Nucleation-Rapid Growth Model,I,Science,Biology,Biochemistry and Molecular Biology,middle,False,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+When a polypeptide chain begins to fold, many 'folding nuclei' first form in a certain region of the polypeptide chain. The formation of these nuclei is the rate-limiting step in the initial stage of folding. A polypeptide chain can have multiple nuclei, and each nucleus expands to both sides, allowing the entire polypeptide chain to quickly fold into its native conformation. This folding method is called ()
+
+Options:
+A. Nucleation-Immediate Growth Model
+B. Nucleation-Sequential Growth Model
+C. Kinetic Model
+D. Nucleation-Slow Growth Model
+E. Nucleation-Parallel Growth Model
+F. Puzzle Model
+G. Nucleation-Progressive Growth Model
+H. Nucleation-Instantaneous Growth Model
+I. Nucleation-Rapid Growth Model
+J. Framework Model
+"
+37207c46e2b54cd5bef11a92f71893f3,Which of the following statements about Escherichia coli topoisomerase is correct?,"['Aids in the elimination of supercoils ahead of the replication fork in DNA molecules', 'Aids in the formation of supercoils behind the replication fork in DNA molecules', 'Aids in the formation of supercoils ahead of the replication fork in DNA molecules', 'Catalyzes the connection of the two ends of a nick in the DNA double helix', 'Separates the two daughter DNA strands topologically by breaking phosphodiester bonds', 'Aids in the elimination of supercoils behind the replication fork in DNA molecules', 'Improves the extension of DNA polymerase by disrupting hydrogen bonds and base stacking', 'Forms topological connections between the two daughter strands by hydrolyzing ATP']",Aids in the elimination of supercoils ahead of the replication fork in DNA molecules,A,Science,Biology,Biochemistry and Molecular Biology,easy,False,8,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+Which of the following statements about Escherichia coli topoisomerase is correct?
+
+Options:
+A. Aids in the elimination of supercoils ahead of the replication fork in DNA molecules
+B. Aids in the formation of supercoils behind the replication fork in DNA molecules
+C. Aids in the formation of supercoils ahead of the replication fork in DNA molecules
+D. Catalyzes the connection of the two ends of a nick in the DNA double helix
+E. Separates the two daughter DNA strands topologically by breaking phosphodiester bonds
+F. Aids in the elimination of supercoils behind the replication fork in DNA molecules
+G. Improves the extension of DNA polymerase by disrupting hydrogen bonds and base stacking
+H. Forms topological connections between the two daughter strands by hydrolyzing ATP
+"
+d735b8507f654bb19440357d19395199,"The unlabeled substrate exhibits competitive inhibition relative to the labeled substrate. This displacement phenomenon can be used in a solution known not to contain a true inhibitor to determine the unknown concentration of the substrate. For example, assume that 0.1 ml of a fraction containing unlabeled S is included in a 1.0 ml standard reaction volume, which contains $[ \mathbf{S^{*}} ]=2.3 \times 10^{-5} \mathrm{mol}$ and enough $[ E ]_{t}$ to produce $V_{\mathrm{max}} = 290 \, \mathrm{nmol/min}$. The observed initial velocity is 48,000 counts per minute. What is the concentration of unlabeled S in the fraction?","['$$ 1. 5 8 \\times1 0^{-4} \\mathrm{m o l} / \\mathbf{L} $$', '$$ 2. 4 9 \\times1 0^{-5} \\mathrm{m o l} / \\mathbf{L} $$', '$$ 2. 5 3 \\times1 0^{-4} \\mathrm{m o l} / \\mathbf{L} $$', '$$ 2. 8 4 \\times1 0^{-6} \\mathrm{m o l} / \\mathbf{L} $$', '$$ 3. 2 1 \\times1 0^{-4} \\mathrm{m o l} / \\mathbf{L} $$', '$$ 2. 9 0 \\times1 0^{-4} \\mathrm{m o l} / \\mathbf{L} $$', '$$\n1. 3 7 \\times1 0^{-4} \\mathrm{m o l} / \\mathbf{L}\n$$', '$$ 1. 0 5 \\times1 0^{-4} \\mathrm{m o l} / \\mathbf{L} $$', '$$ 1. 9 6 \\times1 0^{-3} \\mathrm{m o l} / \\mathbf{L} $$', '$$ 4. 7 8 \\times1 0^{-4} \\mathrm{m o l} / \\mathbf{L} $$']","$$
+1. 3 7 \times1 0^{-4} \mathrm{m o l} / \mathbf{L}
+$$",G,Science,Biology,Biochemistry and Molecular Biology,hard,True,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+The unlabeled substrate exhibits competitive inhibition relative to the labeled substrate. This displacement phenomenon can be used in a solution known not to contain a true inhibitor to determine the unknown concentration of the substrate. For example, assume that 0.1 ml of a fraction containing unlabeled S is included in a 1.0 ml standard reaction volume, which contains $[ \mathbf{S^{*}} ]=2.3 \times 10^{-5} \mathrm{mol}$ and enough $[ E ]_{t}$ to produce $V_{\mathrm{max}} = 290 \, \mathrm{nmol/min}$. The observed initial velocity is 48,000 counts per minute. What is the concentration of unlabeled S in the fraction?
+
+Options:
+A. $$ 1. 5 8 \times1 0^{-4} \mathrm{m o l} / \mathbf{L} $$
+B. $$ 2. 4 9 \times1 0^{-5} \mathrm{m o l} / \mathbf{L} $$
+C. $$ 2. 5 3 \times1 0^{-4} \mathrm{m o l} / \mathbf{L} $$
+D. $$ 2. 8 4 \times1 0^{-6} \mathrm{m o l} / \mathbf{L} $$
+E. $$ 3. 2 1 \times1 0^{-4} \mathrm{m o l} / \mathbf{L} $$
+F. $$ 2. 9 0 \times1 0^{-4} \mathrm{m o l} / \mathbf{L} $$
+G. $$
+1. 3 7 \times1 0^{-4} \mathrm{m o l} / \mathbf{L}
+$$
+H. $$ 1. 0 5 \times1 0^{-4} \mathrm{m o l} / \mathbf{L} $$
+I. $$ 1. 9 6 \times1 0^{-3} \mathrm{m o l} / \mathbf{L} $$
+J. $$ 4. 7 8 \times1 0^{-4} \mathrm{m o l} / \mathbf{L} $$
+"
+7044f147264c413fb8dcdf8a9ba33f06,The substrate of a certain enzyme is a weakly acidic $A^{-}$ ion $( \mathrm{p} K_{a} = 4.5 )$. The active site of this enzyme contains a protonated histidine residue necessary for its activity $( \mathbf{p} K_{a} = 6.5 )$. What is the optimal pH for this reaction?,"['7.0', '9.0', '5.5', '3.5', '8.5', '8.0', '7.5', '6.5', '6.0', '4.0']",5.5,C,Science,Biology,Biochemistry and Molecular Biology,middle,True,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+The substrate of a certain enzyme is a weakly acidic $A^{-}$ ion $( \mathrm{p} K_{a} = 4.5 )$. The active site of this enzyme contains a protonated histidine residue necessary for its activity $( \mathbf{p} K_{a} = 6.5 )$. What is the optimal pH for this reaction?
+
+Options:
+A. 7.0
+B. 9.0
+C. 5.5
+D. 3.5
+E. 8.5
+F. 8.0
+G. 7.5
+H. 6.5
+I. 6.0
+J. 4.0
+"
+369fc159f2e94ea59a65ba1c649c09cd,"Weigh $25mg$ of protease powder and prepare it into a $25ml$ enzyme solution. Take $0.1ml$ of this enzyme solution, using casein as the substrate, and determine enzyme activity with the Folin-phenol colorimetric method, which reveals the production of $1500 \mu\mathbf{g}$ tyrosine per hour. Separately, take $2ml$ of the enzyme solution, and measure the protein nitrogen using the Kjeldahl method to be $0.2mg$. If we consider the amount of enzyme producing $1\mu g$ of tyrosine per minute as one active unit, calculate the total protein content and total activity of $1 g$ of enzyme preparation based on the above data.","['$$ 0.700 \\ \\mathbf{g}, 2.3 \\times 10^{5} units $$', '$$ 0.750 \\ \\mathbf{g}, 1.5 \\times 10^{5} units $$', '$$ 0.530 \\ \\mathbf{g}, 3.0 \\times 10^{5} units $$', '$$ 0.625 \\ \\mathbf{g}, 2.0 \\times 10^{5} units $$', '$$ 0.590 \\ \\mathbf{g}, 2.6 \\times 10^{5} units $$', '$$ 0.520 \\ \\mathbf{g}, 3.2 \\times 10^{5} units $$', '$$ 0.680 \\ \\mathbf{g}, 2.1 \\times 10^{5} units $$', '$$ 0.500 \\ \\mathbf{g}, 2.8 \\times 10^{5} units $$', '$$ 0.600 \\ \\mathbf{g}, 2.7 \\times 10^{5} units $$', '$$\n0.625 \\ \\mathbf{g}, 2.5 \\times 10^{5} units\n$$']","$$
+0.625 \ \mathbf{g}, 2.5 \times 10^{5} units
+$$",J,Science,Biology,Biochemistry and Molecular Biology,middle,True,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+Weigh $25mg$ of protease powder and prepare it into a $25ml$ enzyme solution. Take $0.1ml$ of this enzyme solution, using casein as the substrate, and determine enzyme activity with the Folin-phenol colorimetric method, which reveals the production of $1500 \mu\mathbf{g}$ tyrosine per hour. Separately, take $2ml$ of the enzyme solution, and measure the protein nitrogen using the Kjeldahl method to be $0.2mg$. If we consider the amount of enzyme producing $1\mu g$ of tyrosine per minute as one active unit, calculate the total protein content and total activity of $1 g$ of enzyme preparation based on the above data.
+
+Options:
+A. $$ 0.700 \ \mathbf{g}, 2.3 \times 10^{5} units $$
+B. $$ 0.750 \ \mathbf{g}, 1.5 \times 10^{5} units $$
+C. $$ 0.530 \ \mathbf{g}, 3.0 \times 10^{5} units $$
+D. $$ 0.625 \ \mathbf{g}, 2.0 \times 10^{5} units $$
+E. $$ 0.590 \ \mathbf{g}, 2.6 \times 10^{5} units $$
+F. $$ 0.520 \ \mathbf{g}, 3.2 \times 10^{5} units $$
+G. $$ 0.680 \ \mathbf{g}, 2.1 \times 10^{5} units $$
+H. $$ 0.500 \ \mathbf{g}, 2.8 \times 10^{5} units $$
+I. $$ 0.600 \ \mathbf{g}, 2.7 \times 10^{5} units $$
+J. $$
+0.625 \ \mathbf{g}, 2.5 \times 10^{5} units
+$$
+"
+24c175d6782e4db49c1dcd85656bf7e2,"The amino acid sequence of a certain peptide chain is: Glu-His-Lys-Asp-Ser-Ile-Tyr-Gly-Arg. After hydrolysis by trypsin, ___ peptide segments can be obtained.","['5', '6', '7', '3', '4', '10', '2', '9', '8', '1']",2,G,Science,Biology,Biochemistry and Molecular Biology,middle,False,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+The amino acid sequence of a certain peptide chain is: Glu-His-Lys-Asp-Ser-Ile-Tyr-Gly-Arg. After hydrolysis by trypsin, ___ peptide segments can be obtained.
+
+Options:
+A. 5
+B. 6
+C. 7
+D. 3
+E. 4
+F. 10
+G. 2
+H. 9
+I. 8
+J. 1
+"
+6f936179a18a4bd6bf8250ef02515271,"The component located before cytochrome $\mathbf{c}_{1}$ in the respiratory chain is ___, and the component after is ___.","['Cytochrome a, Cytochrome b', 'Cytochrome a, Cytochrome d', 'Cytochrome c, Cytochrome a', 'Cytochrome c, Cytochrome d', 'Cytochrome a, Cytochrome c', 'Cytochrome b, Cytochrome d', 'Cytochrome c, Cytochrome b', 'Ubiquinone, Cytochrome b', 'Cytochrome d, Cytochrome b', 'Cytochrome b, Cytochrome c']","Cytochrome b, Cytochrome c",J,Science,Biology,Biochemistry and Molecular Biology,middle,False,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+The component located before cytochrome $\mathbf{c}_{1}$ in the respiratory chain is ___, and the component after is ___.
+
+Options:
+A. Cytochrome a, Cytochrome b
+B. Cytochrome a, Cytochrome d
+C. Cytochrome c, Cytochrome a
+D. Cytochrome c, Cytochrome d
+E. Cytochrome a, Cytochrome c
+F. Cytochrome b, Cytochrome d
+G. Cytochrome c, Cytochrome b
+H. Ubiquinone, Cytochrome b
+I. Cytochrome d, Cytochrome b
+J. Cytochrome b, Cytochrome c
+"
+ab1c6d796d454ad68c1b9be34dee2190,"Donahue and others have proposed that the predominant form of base-pairing configurations is ___ structure, which is the structural prerequisite for base pairing (A and T, G and C) in the double helix.","['Ketone form', 'Amino pattern', 'Aldehyde configuration', 'Hydroxyl design', 'Ether layout', 'Halide build', 'Ester formation', 'Carboxyl blueprint', 'Phosphate shape', 'Amide shape']",Ketone form,A,Science,Biology,Biochemistry and Molecular Biology,easy,False,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+Donahue and others have proposed that the predominant form of base-pairing configurations is ___ structure, which is the structural prerequisite for base pairing (A and T, G and C) in the double helix.
+
+Options:
+A. Ketone form
+B. Amino pattern
+C. Aldehyde configuration
+D. Hydroxyl design
+E. Ether layout
+F. Halide build
+G. Ester formation
+H. Carboxyl blueprint
+I. Phosphate shape
+J. Amide shape
+"
+52a331dfbc964e2fbb4337673dbb4710,"In the double reciprocal plotting method, what is Km?","['The standard deviation of the plotted points', 'The maximum value of', 'The geometric mean of the intercepts', ""The minimum value of the curve's peak point"", 'The inverse distance between vertical points', 'The total sum of the vertical intercepts', 'The gradient of the tangent line to the curve', ""The average value of the slope's intersections"", 'The absolute value of the derivative of the horizontal intercept', 'The total difference minus the intercept value']",The absolute value of the derivative of the horizontal intercept,I,Science,Biology,Biochemistry and Molecular Biology,middle,False,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+In the double reciprocal plotting method, what is Km?
+
+Options:
+A. The standard deviation of the plotted points
+B. The maximum value of
+C. The geometric mean of the intercepts
+D. The minimum value of the curve's peak point
+E. The inverse distance between vertical points
+F. The total sum of the vertical intercepts
+G. The gradient of the tangent line to the curve
+H. The average value of the slope's intersections
+I. The absolute value of the derivative of the horizontal intercept
+J. The total difference minus the intercept value
+"
+6997ce0e43e6470bad308b3e62fa0be8,"Enzyme___, due to their structure being similar to that of the substrate, jointly compete for the enzyme's active site.","['competitive inhibitors', 'allosteric regulators', 'active blockers', 'molecular imposters', 'reaction enhancers', 'structural isomers', 'metabolic activators', 'coenzymatic helpers', 'binding limiters', 'substrate analogs']",competitive inhibitors,A,Science,Biology,Biochemistry and Molecular Biology,easy,False,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+Enzyme___, due to their structure being similar to that of the substrate, jointly compete for the enzyme's active site.
+
+Options:
+A. competitive inhibitors
+B. allosteric regulators
+C. active blockers
+D. molecular imposters
+E. reaction enhancers
+F. structural isomers
+G. metabolic activators
+H. coenzymatic helpers
+I. binding limiters
+J. substrate analogs
+"
+3f2eecb42bf443af83c09c9832b216b7,"Based on the location of enzyme activity, enzymes can be classified into extracellular enzymes, intracellular enzymes, and _____ enzymes.","['core', 'external', 'nucleus', 'secondary', 'integral', 'surface', 'internal', 'boundary', 'peripheral', 'cell']",surface,F,Science,Biology,Biochemistry and Molecular Biology,easy,False,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+Based on the location of enzyme activity, enzymes can be classified into extracellular enzymes, intracellular enzymes, and _____ enzymes.
+
+Options:
+A. core
+B. external
+C. nucleus
+D. secondary
+E. integral
+F. surface
+G. internal
+H. boundary
+I. peripheral
+J. cell
+"
+b1ee621247f145c497bf6f38cfb5e6cd,"Enzymes are composed of two types: single-component enzymes, which contain only protein; and _______, which are composed of both protein and small non-nitrogenous organic molecules.","['partial enzymes', 'hybrid enzymes', 'dual enzymes', 'complete enzymes', 'simple enzymes', 'unified enzymes', 'composite enzymes', 'integrated enzymes', 'complex enzymes', 'total enzymes']",complete enzymes,D,Science,Biology,Biochemistry and Molecular Biology,easy,False,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+Enzymes are composed of two types: single-component enzymes, which contain only protein; and _______, which are composed of both protein and small non-nitrogenous organic molecules.
+
+Options:
+A. partial enzymes
+B. hybrid enzymes
+C. dual enzymes
+D. complete enzymes
+E. simple enzymes
+F. unified enzymes
+G. composite enzymes
+H. integrated enzymes
+I. complex enzymes
+J. total enzymes
+"
+01bf61b7cec34613a543f9364d45555a,What is produced when one molecule of pyruvate undergoes oxidation through the TCA cycle and the respiratory chain?,"['There are four instances of dehydrogenation, all of which enter the respiratory chain through NAD-.', 'Produces 2 molecules of $\\mathrm{CO_2}$', 'There are six instances of dehydrogenation, all of which enter the respiratory chain through NAD-.', 'Generate 15 molecules of ATP.', 'Generate 10 molecules of ATP.', 'There are five instances of dehydrogenation, all of which enter the respiratory chain through NAD-.', 'Produces 4 molecules of $\\mathrm{CO_2}$', 'Generate 5 molecules of $\\mathrm{H_2O}$.', 'Generate 12 molecules of ATP.', 'Generate 3 molecules of $\\mathrm{CO_2}$.']",Generate 3 molecules of $\mathrm{CO_2}$.,J,Science,Biology,Biochemistry and Molecular Biology,middle,True,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+What is produced when one molecule of pyruvate undergoes oxidation through the TCA cycle and the respiratory chain?
+
+Options:
+A. There are four instances of dehydrogenation, all of which enter the respiratory chain through NAD-.
+B. Produces 2 molecules of $\mathrm{CO_2}$
+C. There are six instances of dehydrogenation, all of which enter the respiratory chain through NAD-.
+D. Generate 15 molecules of ATP.
+E. Generate 10 molecules of ATP.
+F. There are five instances of dehydrogenation, all of which enter the respiratory chain through NAD-.
+G. Produces 4 molecules of $\mathrm{CO_2}$
+H. Generate 5 molecules of $\mathrm{H_2O}$.
+I. Generate 12 molecules of ATP.
+J. Generate 3 molecules of $\mathrm{CO_2}$.
+"
+ccfaf9f64e084d168e0417166fd1baa9,What causes the normal termination of a peptide chain?,"['The lack of a start codon halts translation prematurely.', 'Does not possess an anticodon tRNA corresponding to the chain-terminating triplet.', 'A tRNA carries an amino acid to the stop codon.', 'A releasing factor triggers peptide elongation to continue.', 'Due to the termination codon appearing on the tRNA.', 'A tRNA corresponding to a chain-terminating triplet cannot carry an amino acid.', 'A ribosome binds an incorrect tRNA at the stop codon.', 'The peptide chain dissociates at an internal codon.', 'mRNA synthesis stops at the termination triplet.', 'A promoter sequence prevents the termination codon translation.']",Does not possess an anticodon tRNA corresponding to the chain-terminating triplet.,B,Science,Biology,Biochemistry and Molecular Biology,middle,False,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+What causes the normal termination of a peptide chain?
+
+Options:
+A. The lack of a start codon halts translation prematurely.
+B. Does not possess an anticodon tRNA corresponding to the chain-terminating triplet.
+C. A tRNA carries an amino acid to the stop codon.
+D. A releasing factor triggers peptide elongation to continue.
+E. Due to the termination codon appearing on the tRNA.
+F. A tRNA corresponding to a chain-terminating triplet cannot carry an amino acid.
+G. A ribosome binds an incorrect tRNA at the stop codon.
+H. The peptide chain dissociates at an internal codon.
+I. mRNA synthesis stops at the termination triplet.
+J. A promoter sequence prevents the termination codon translation.
+"
+43dd104c9eab4514b42fc0a00d68a057,There is a mutant yeast strain lacking an enzyme in the tricarboxylic acid cycle. It can only grow when α-ketoglutarate is added to the medium. Which enzyme is this yeast lacking?,"['Malate dehydrogenase', 'Pyruvate carboxylase enzyme', 'Isocitrate dehydrogenase', 'Pyruvate dehydrogenase', 'Citrate isomerase', 'α-ketoglutarate dehydrogenase', 'Citrate synthase enzyme', 'Aconitase enzyme', 'Fumarase enzyme', 'Succinate dehydrogenase']",Isocitrate dehydrogenase,C,Science,Biology,Biochemistry and Molecular Biology,middle,False,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+There is a mutant yeast strain lacking an enzyme in the tricarboxylic acid cycle. It can only grow when α-ketoglutarate is added to the medium. Which enzyme is this yeast lacking?
+
+Options:
+A. Malate dehydrogenase
+B. Pyruvate carboxylase enzyme
+C. Isocitrate dehydrogenase
+D. Pyruvate dehydrogenase
+E. Citrate isomerase
+F. α-ketoglutarate dehydrogenase
+G. Citrate synthase enzyme
+H. Aconitase enzyme
+I. Fumarase enzyme
+J. Succinate dehydrogenase
+"
+f54a47999c8541328fb0ba30dad8822b,"After being peeled, apples turn brown due to the action of which substance?","['Oxidative reductase', 'Peroxide catalase', 'Phenol oxidase', 'Catechol oxidase', 'Cytochrome oxidase', 'Tyrosinase activity', 'Lactate dehydrogenase', 'Cytochrome oxidase inhibition', 'Polyphenol synthase', 'Alternative Oxidase']",Phenol oxidase,C,Science,Biology,Biochemistry and Molecular Biology,middle,False,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+After being peeled, apples turn brown due to the action of which substance?
+
+Options:
+A. Oxidative reductase
+B. Peroxide catalase
+C. Phenol oxidase
+D. Catechol oxidase
+E. Cytochrome oxidase
+F. Tyrosinase activity
+G. Lactate dehydrogenase
+H. Cytochrome oxidase inhibition
+I. Polyphenol synthase
+J. Alternative Oxidase
+"
+5ebc4df973684ac6b8db74ff0501fb0e,"When studying the properties of a protein, we generally first need to isolate and purify the protein, as well as determine its molecular weight. Which of the following experimental techniques can serve both the purpose of isolation and purification and the determination of its molecular weight?","['Size exclusion electrophoresis', 'Ion Exchange Chromatography', 'Paper Chromatography', 'Gel filtration chromatography', 'Mass spectrometry ionization', 'Differential centrifugation', 'Circular dichroism spectroscopy', 'Affinity Chromatography', 'Co-immunoprecipitation assay', 'Western blotting technique']",Gel filtration chromatography,D,Science,Biology,Biochemistry and Molecular Biology,middle,False,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+When studying the properties of a protein, we generally first need to isolate and purify the protein, as well as determine its molecular weight. Which of the following experimental techniques can serve both the purpose of isolation and purification and the determination of its molecular weight?
+
+Options:
+A. Size exclusion electrophoresis
+B. Ion Exchange Chromatography
+C. Paper Chromatography
+D. Gel filtration chromatography
+E. Mass spectrometry ionization
+F. Differential centrifugation
+G. Circular dichroism spectroscopy
+H. Affinity Chromatography
+I. Co-immunoprecipitation assay
+J. Western blotting technique
+"
+1e4bc89a675d4de498ab6bec91f6862e,Ribonuclease is 1.65% leucine and 2.48% isoleucine by weight. Calculate its minimum molecular weight.,"['9.81 × 10^3', '4.20 × 10^3', '3.14 × 10^3', '2.48 × 10^3', '1.65 × 10^3', '8.66 × 10^3', '7.89 × 10^3', '1.01 × 10^4', '5.29 × 10^3', '6.02 × 10^3']",7.89 × 10^3,G,Science,Biology,Biochemistry and Molecular Biology,hard,True,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+Ribonuclease is 1.65% leucine and 2.48% isoleucine by weight. Calculate its minimum molecular weight.
+
+Options:
+A. 9.81 × 10^3
+B. 4.20 × 10^3
+C. 3.14 × 10^3
+D. 2.48 × 10^3
+E. 1.65 × 10^3
+F. 8.66 × 10^3
+G. 7.89 × 10^3
+H. 1.01 × 10^4
+I. 5.29 × 10^3
+J. 6.02 × 10^3
+"
+e8c5da5ca40647158b0c91dd695c6243,"The $\mathrm{p} K_{a}^{\prime}$ values for aquatic mammals $HHbO_{2}$ and $HHb$ are 6.62 and 8.18, respectively. Calculate the number of moles of $\mathrm{H}^{+}$ that hemoglobin binds when releasing one mole of oxygen at $\mathrm{pH} 7.4$?","['$$\n0. 9 5 2 \\mathrm{H}^{+} / \\mathrm{O}_{\\mathrm{2}}\n$$', '$$\n0. 5 9 8 \\mathrm{H}^{+} / \\mathrm{O}_{\\mathrm{2}}\n$$', '$$\n0. 6 2 3 \\mathrm{H}^{+} / \\mathrm{O}_{\\mathrm{2}}\n$$', '$$\n0. 8 1 5 \\mathrm{H}^{+} / \\mathrm{O}_{\\mathrm{2}}\n$$', '$$\n0. 4 1 6 \\mathrm{H}^{+} / \\mathrm{O}_{\\mathrm{2}}\n$$', '$$\n0. 7 1 6 \\mathrm{H}^{+} / \\mathrm{O}_{\\mathrm{2}}\n$$', '$$\n1. 3 4 9 \\mathrm{H}^{+} / \\mathrm{O}_{\\mathrm{2}}\n$$', '$$\n1. 0 2 4 \\mathrm{H}^{+} / \\mathrm{O}_{\\mathrm{2}}\n$$', '$$\n0. 9 1 1 \\mathrm{H}^{+} / \\mathrm{O}_{\\mathrm{2}}\n$$', '$$\n0. 5 8 7 \\mathrm{H}^{+} / \\mathrm{O}_{\\mathrm{2}}\n$$']","$$
+0. 7 1 6 \mathrm{H}^{+} / \mathrm{O}_{\mathrm{2}}
+$$",F,Science,Biology,Biochemistry and Molecular Biology,hard,True,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+The $\mathrm{p} K_{a}^{\prime}$ values for aquatic mammals $HHbO_{2}$ and $HHb$ are 6.62 and 8.18, respectively. Calculate the number of moles of $\mathrm{H}^{+}$ that hemoglobin binds when releasing one mole of oxygen at $\mathrm{pH} 7.4$?
+
+Options:
+A. $$
+0. 9 5 2 \mathrm{H}^{+} / \mathrm{O}_{\mathrm{2}}
+$$
+B. $$
+0. 5 9 8 \mathrm{H}^{+} / \mathrm{O}_{\mathrm{2}}
+$$
+C. $$
+0. 6 2 3 \mathrm{H}^{+} / \mathrm{O}_{\mathrm{2}}
+$$
+D. $$
+0. 8 1 5 \mathrm{H}^{+} / \mathrm{O}_{\mathrm{2}}
+$$
+E. $$
+0. 4 1 6 \mathrm{H}^{+} / \mathrm{O}_{\mathrm{2}}
+$$
+F. $$
+0. 7 1 6 \mathrm{H}^{+} / \mathrm{O}_{\mathrm{2}}
+$$
+G. $$
+1. 3 4 9 \mathrm{H}^{+} / \mathrm{O}_{\mathrm{2}}
+$$
+H. $$
+1. 0 2 4 \mathrm{H}^{+} / \mathrm{O}_{\mathrm{2}}
+$$
+I. $$
+0. 9 1 1 \mathrm{H}^{+} / \mathrm{O}_{\mathrm{2}}
+$$
+J. $$
+0. 5 8 7 \mathrm{H}^{+} / \mathrm{O}_{\mathrm{2}}
+$$
+"
+f6e4e6986f5a480c92b54d409e064437,"Which of the following epigenetic modifications is crucial for the maintenance of chromatin structure, X chromosome inactivation, genomic imprinting, and the maintenance of normal cell function, as well as embryonic development and disease occurrence?","['Histone methylation and DNA methylation', 'Histone demethylation', 'Histone phosphorylation', 'Histone methylation and DNA acetylation', 'Histone methylation and DNA demethylation', 'Histone acetylation', 'Histone deacetylation', 'DNA methylation', 'Histone ubiquitination', 'Histone methylation']",DNA methylation,H,Science,Biology,Biochemistry and Molecular Biology,middle,False,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+Which of the following epigenetic modifications is crucial for the maintenance of chromatin structure, X chromosome inactivation, genomic imprinting, and the maintenance of normal cell function, as well as embryonic development and disease occurrence?
+
+Options:
+A. Histone methylation and DNA methylation
+B. Histone demethylation
+C. Histone phosphorylation
+D. Histone methylation and DNA acetylation
+E. Histone methylation and DNA demethylation
+F. Histone acetylation
+G. Histone deacetylation
+H. DNA methylation
+I. Histone ubiquitination
+J. Histone methylation
+"
+f40ee7e2f4284f358e36ff49ccb968c9,"Per TCA with 3 NADH and 1 FADH2, generates how many ATP-","['6', '11', '10', '7', '15', '8', '14', '12', '13', '9']",9,J,Science,Biology,Biochemistry and Molecular Biology,middle,True,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+Per TCA with 3 NADH and 1 FADH2, generates how many ATP-
+
+Options:
+A. 6
+B. 11
+C. 10
+D. 7
+E. 15
+F. 8
+G. 14
+H. 12
+I. 13
+J. 9
+"
+d7c0d79fd96442cf841ee4fa7eaf1153,Calculate the molecular weight of a pure isoelectric protein if a 1% solution gives an osmotic pressure of 46 mm of H_2O at 0°C. Assume that it yields an ideal solution.,"['273 g/mole', '5,030 g/mole', '603 g/mole', 'Both 50,300 g/mole and 50.3 kg/mole are correct', '10 g/mole', '50.3 kg/mole', '150,000 g/mole', '92,000 g/mole', '46,000 g/mole', '50,300 g/mole']","Both 50,300 g/mole and 50.3 kg/mole are correct",D,Science,Biology,Biochemistry and Molecular Biology,hard,True,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+Calculate the molecular weight of a pure isoelectric protein if a 1% solution gives an osmotic pressure of 46 mm of H_2O at 0°C. Assume that it yields an ideal solution.
+
+Options:
+A. 273 g/mole
+B. 5,030 g/mole
+C. 603 g/mole
+D. Both 50,300 g/mole and 50.3 kg/mole are correct
+E. 10 g/mole
+F. 50.3 kg/mole
+G. 150,000 g/mole
+H. 92,000 g/mole
+I. 46,000 g/mole
+J. 50,300 g/mole
+"
+b9e2615668f8451a85bc43a9a85c4a7c,"A plant grows in an atmosphere containing $\mathrm{^{14}C O_{2} ~ ( 3 \times~ 10^8 }$ counts per minute $/ \mu$ mol). Several weeks later, leaf extracts were prepared to determine glucose-1-phosphate using the isotope dilution method. To the 20 ml extract, 1.5 mmol of unlabeled glucose-1-phosphate dipotassium was added. A small amount of glucose-1-phosphate dipotassium was repeatedly isolated from the extract and recrystallized with an ethanol-water solution to a constant specific radioactivity. The specific radioactivity of the recrystallized salt is $2.6 \times 10^{5}$ counts per minute $/ \mu \mathrm{mol}$. Calculate the concentration of labeled glucose-1-phosphate in the extract is.","['$$\n6. 3 9 2 \\times1 0^{-5} \\mathrm{m o l}\n$$', '$$\n5. 4 7 6 \\times1 0^{-5} \\mathrm{m o l}\n$$', '$$\n3. 5 3 8 \\times1 0^{-5} \\mathrm{m o l}\n$$', '$$\n1. 0 8 4 \\times1 0^{-5} \\mathrm{m o l}\n$$', '$$\n4. 0 6 7 \\times1 0^{-5} \\mathrm{m o l}\n$$', '$$\n0. 9 4 8 \\times1 0^{-5} \\mathrm{m o l}\n$$', '$$\n9. 2 5 1 \\times1 0^{-5} \\mathrm{m o l}\n$$', '$$\n2. 7 8 5 \\times1 0^{-5} \\mathrm{m o l}\n$$', '$$\n7. 1 2 9 \\times1 0^{-5} \\mathrm{m o l}\n$$', '$$\n8. 0 3 1 \\times1 0^{-5} \\mathrm{m o l}\n$$']","$$
+1. 0 8 4 \times1 0^{-5} \mathrm{m o l}
+$$",D,Science,Biology,Biochemistry and Molecular Biology,hard,True,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+A plant grows in an atmosphere containing $\mathrm{^{14}C O_{2} ~ ( 3 \times~ 10^8 }$ counts per minute $/ \mu$ mol). Several weeks later, leaf extracts were prepared to determine glucose-1-phosphate using the isotope dilution method. To the 20 ml extract, 1.5 mmol of unlabeled glucose-1-phosphate dipotassium was added. A small amount of glucose-1-phosphate dipotassium was repeatedly isolated from the extract and recrystallized with an ethanol-water solution to a constant specific radioactivity. The specific radioactivity of the recrystallized salt is $2.6 \times 10^{5}$ counts per minute $/ \mu \mathrm{mol}$. Calculate the concentration of labeled glucose-1-phosphate in the extract is.
+
+Options:
+A. $$
+6. 3 9 2 \times1 0^{-5} \mathrm{m o l}
+$$
+B. $$
+5. 4 7 6 \times1 0^{-5} \mathrm{m o l}
+$$
+C. $$
+3. 5 3 8 \times1 0^{-5} \mathrm{m o l}
+$$
+D. $$
+1. 0 8 4 \times1 0^{-5} \mathrm{m o l}
+$$
+E. $$
+4. 0 6 7 \times1 0^{-5} \mathrm{m o l}
+$$
+F. $$
+0. 9 4 8 \times1 0^{-5} \mathrm{m o l}
+$$
+G. $$
+9. 2 5 1 \times1 0^{-5} \mathrm{m o l}
+$$
+H. $$
+2. 7 8 5 \times1 0^{-5} \mathrm{m o l}
+$$
+I. $$
+7. 1 2 9 \times1 0^{-5} \mathrm{m o l}
+$$
+J. $$
+8. 0 3 1 \times1 0^{-5} \mathrm{m o l}
+$$
+"
+fe9f14d401614381b659ee4628a023f1,"The crude preparation of a certain enzyme, after initial purification, contains protein at $2mg$ per ml. Take $0.1ul$ of this enzyme solution and catalyze the substrate in a total volume of $0.5ml$ for a reaction, producing $20nM$ of product after 2 minutes (under optimal reaction conditions). Calculate the concentration of this enzyme preparation.","['$$\n75 units/ml\n$$', '$$\n100 units/ml\n$$', '$$\n300 units/ml\n$$', '$$\n150 units/ml\n$$', '$$\n10 units/ml\n$$', '$$\n500 units/ml\n$$', '$$\n25 units/ml\n$$', '$$\n200 units/ml\n$$', '$$\n400 units/ml\n$$', '$$\n50 units/ml\n$$']","$$
+100 units/ml
+$$",B,Science,Biology,Biochemistry and Molecular Biology,middle,True,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+The crude preparation of a certain enzyme, after initial purification, contains protein at $2mg$ per ml. Take $0.1ul$ of this enzyme solution and catalyze the substrate in a total volume of $0.5ml$ for a reaction, producing $20nM$ of product after 2 minutes (under optimal reaction conditions). Calculate the concentration of this enzyme preparation.
+
+Options:
+A. $$
+75 units/ml
+$$
+B. $$
+100 units/ml
+$$
+C. $$
+300 units/ml
+$$
+D. $$
+150 units/ml
+$$
+E. $$
+10 units/ml
+$$
+F. $$
+500 units/ml
+$$
+G. $$
+25 units/ml
+$$
+H. $$
+200 units/ml
+$$
+I. $$
+400 units/ml
+$$
+J. $$
+50 units/ml
+$$
+"
+f354c58f76d14170ba171ec1ec6f82a9,"NAD+, FAD, and CoA are all derivatives of chemical ___.","['Flavin Adenine Dinucleotide', 'Cytosine Monophosphate', 'Adenosine Monophosphate', 'Thiamine Pyrophosphate', 'Riboflavin Phosphate', 'Cytidine Diphosphate', 'Nicotinamide Adenine Dinucleotide', 'Guanosine Triphosphate', 'Uridine Triphosphate', 'Thymidine Monophosphate']",Adenosine Monophosphate,C,Science,Biology,Biochemistry and Molecular Biology,easy,False,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+NAD+, FAD, and CoA are all derivatives of chemical ___.
+
+Options:
+A. Flavin Adenine Dinucleotide
+B. Cytosine Monophosphate
+C. Adenosine Monophosphate
+D. Thiamine Pyrophosphate
+E. Riboflavin Phosphate
+F. Cytidine Diphosphate
+G. Nicotinamide Adenine Dinucleotide
+H. Guanosine Triphosphate
+I. Uridine Triphosphate
+J. Thymidine Monophosphate
+"
+09551dc718794b47a742322c1ddb8fdd,Cyanide inhibits the transfer of electrons from ___ to ___.,"['$\\mathrm{FADH_{2}}, \\quad \\mathrm{O_{2}}$', '$\\mathrm{C y t \\ b_{1}}, \\quad\\mathrm{O_{2}}$', '$\\mathrm{C y t \\ a a_{3}}, \\quad\\mathrm{O_{2}}$', '$\\mathrm{NAD^{+}}, \\quad \\mathrm{O_{2}}$', '$\\mathrm{C y t \\ a}, \\quad\\mathrm{O_{2}}$', '$\\mathrm{C y t \\ c_{1}}, \\quad\\mathrm{O_{2}}$', '$\\mathrm{C y t \\ c}, \\quad\\mathrm{O_{2}}$', '$\\mathrm{C y t \\ c}, \\quad\\mathrm{CO_{2}}$', '$\\mathrm{C y t \\ b}, \\quad\\mathrm{O_{2}}$', '$\\mathrm{NADH}, \\quad \\mathrm{O_{2}}$']","$\mathrm{C y t \ a a_{3}}, \quad\mathrm{O_{2}}$",C,Science,Biology,Biochemistry and Molecular Biology,easy,False,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+Cyanide inhibits the transfer of electrons from ___ to ___.
+
+Options:
+A. $\mathrm{FADH_{2}}, \quad \mathrm{O_{2}}$
+B. $\mathrm{C y t \ b_{1}}, \quad\mathrm{O_{2}}$
+C. $\mathrm{C y t \ a a_{3}}, \quad\mathrm{O_{2}}$
+D. $\mathrm{NAD^{+}}, \quad \mathrm{O_{2}}$
+E. $\mathrm{C y t \ a}, \quad\mathrm{O_{2}}$
+F. $\mathrm{C y t \ c_{1}}, \quad\mathrm{O_{2}}$
+G. $\mathrm{C y t \ c}, \quad\mathrm{O_{2}}$
+H. $\mathrm{C y t \ c}, \quad\mathrm{CO_{2}}$
+I. $\mathrm{C y t \ b}, \quad\mathrm{O_{2}}$
+J. $\mathrm{NADH}, \quad \mathrm{O_{2}}$
+"
+11e6d739aeee41e895cf5b7e271ac05a,Which of the following methods is a non-labeled molecular interaction analysis method?,"['Crystal Structure Analysis, Spectral Diffraction Technique, Thermal Desorption Spectrometry', 'Fluorescence Resonance Energy Transfer, Quantum Dot Imaging', 'Surface Plasmon Resonance Analysis, Biofilm Interference Method, Isothermal Titration Calorimetry', 'Confocal Laser Microscopy, Atomic Force Microscopy, Gas Chromatography', 'Fluorescence Correlation Spectroscopy, Photoluminescence Analysis, Magnetic Alignment Detection', 'Signal Amplification Method, Enzyme-linked Immunosorbant Assays', 'Biochemical Surface Morphology, Photonic Crystal Labeling', 'Gravitational Pull Detection, Laser Refraction Technique, Electron Beam Alignment', 'Protein Gel Electrophoresis, X-ray Fluorescence, Circular Dichroism', 'Electron Microscopy Imaging, Chemical Affinity Testing, Nuclear Magnetic Resonance']","Surface Plasmon Resonance Analysis, Biofilm Interference Method, Isothermal Titration Calorimetry",C,Science,Biology,Biochemistry and Molecular Biology,easy,False,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+Which of the following methods is a non-labeled molecular interaction analysis method?
+
+Options:
+A. Crystal Structure Analysis, Spectral Diffraction Technique, Thermal Desorption Spectrometry
+B. Fluorescence Resonance Energy Transfer, Quantum Dot Imaging
+C. Surface Plasmon Resonance Analysis, Biofilm Interference Method, Isothermal Titration Calorimetry
+D. Confocal Laser Microscopy, Atomic Force Microscopy, Gas Chromatography
+E. Fluorescence Correlation Spectroscopy, Photoluminescence Analysis, Magnetic Alignment Detection
+F. Signal Amplification Method, Enzyme-linked Immunosorbant Assays
+G. Biochemical Surface Morphology, Photonic Crystal Labeling
+H. Gravitational Pull Detection, Laser Refraction Technique, Electron Beam Alignment
+I. Protein Gel Electrophoresis, X-ray Fluorescence, Circular Dichroism
+J. Electron Microscopy Imaging, Chemical Affinity Testing, Nuclear Magnetic Resonance
+"
+c11ec649c3144135a1f7402546991948,"CoA, NAD, and FAD all contain_______.","['guanine triphosphate', 'thymine diphosphate', 'adenosine tetracycline', 'uracil dinucleotide', 'adenine tetracycline', 'adenosine monophosphate', 'cytosine monophosphate', 'adenosine diphosphate', 'adenosine triphosphate', 'adenosine dinucleotide']",adenosine monophosphate,F,Science,Biology,Biochemistry and Molecular Biology,easy,False,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+CoA, NAD, and FAD all contain_______.
+
+Options:
+A. guanine triphosphate
+B. thymine diphosphate
+C. adenosine tetracycline
+D. uracil dinucleotide
+E. adenine tetracycline
+F. adenosine monophosphate
+G. cytosine monophosphate
+H. adenosine diphosphate
+I. adenosine triphosphate
+J. adenosine dinucleotide
+"
+3fe1e8a1ce6343398e5a7b51f91d1655,At what nm does the Pr type of photosensitive pigment have maximum absorption?,"['680', '560', '660', '610', '720', '500', '530', '690', '640', '580']",660,C,Science,Biology,Biochemistry and Molecular Biology,easy,False,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+At what nm does the Pr type of photosensitive pigment have maximum absorption?
+
+Options:
+A. 680
+B. 560
+C. 660
+D. 610
+E. 720
+F. 500
+G. 530
+H. 690
+I. 640
+J. 580
+"
+8c4f2d63a6eb429393a90a03e784f185,What types of RNA are included?,"['Bird purine ribonucleotide, adenine ribonucleotide, cytosine ribonucleotide, uracil ribonucleotide.', 'Insect purine ribonucleotide, guanine ribonucleotide, thymine ribonucleotide, cytosine ribonucleotide.', 'Amphibian purine ribonucleotide, guanine ribonucleotide, adenine ribonucleotide, cytosine ribonucleotide.', 'Plant purine ribonucleotide, guanine ribonucleotide, cytosine ribonucleotide, uracil ribonucleotide.', 'Dog purine ribonucleotide, cytosine ribonucleotide, uracil ribonucleotide, adenine ribonucleotide.', 'Reptile purine ribonucleotide, adenine ribonucleotide, cytosine ribonucleotide, uracil ribonucleotide.', 'Animal purine ribonucleotide, adenine ribonucleotide, uracil ribonucleotide, thymine ribonucleotide.', 'Fish purine ribonucleotide, guanine ribonucleotide, adenine ribonucleotide, cytosine ribonucleotide.', 'Cat purine ribonucleotide, guanine ribonucleotide, adenine ribonucleotide, cytosine ribonucleotide.', 'Marine purine ribonucleotide, guanine ribonucleotide, adenine ribonucleotide, uracil ribonucleotide.']","Bird purine ribonucleotide, adenine ribonucleotide, cytosine ribonucleotide, uracil ribonucleotide.",A,Science,Biology,Biochemistry and Molecular Biology,easy,False,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+What types of RNA are included?
+
+Options:
+A. Bird purine ribonucleotide, adenine ribonucleotide, cytosine ribonucleotide, uracil ribonucleotide.
+B. Insect purine ribonucleotide, guanine ribonucleotide, thymine ribonucleotide, cytosine ribonucleotide.
+C. Amphibian purine ribonucleotide, guanine ribonucleotide, adenine ribonucleotide, cytosine ribonucleotide.
+D. Plant purine ribonucleotide, guanine ribonucleotide, cytosine ribonucleotide, uracil ribonucleotide.
+E. Dog purine ribonucleotide, cytosine ribonucleotide, uracil ribonucleotide, adenine ribonucleotide.
+F. Reptile purine ribonucleotide, adenine ribonucleotide, cytosine ribonucleotide, uracil ribonucleotide.
+G. Animal purine ribonucleotide, adenine ribonucleotide, uracil ribonucleotide, thymine ribonucleotide.
+H. Fish purine ribonucleotide, guanine ribonucleotide, adenine ribonucleotide, cytosine ribonucleotide.
+I. Cat purine ribonucleotide, guanine ribonucleotide, adenine ribonucleotide, cytosine ribonucleotide.
+J. Marine purine ribonucleotide, guanine ribonucleotide, adenine ribonucleotide, uracil ribonucleotide.
+"
+082a17225305430c8442e94be91e97ee,"Using gel filtration chromatography to separate the following mixture of four proteins, which one will elute from the chromatographic column first?","['Insulin (5.7 kDa)', 'Myoglobin (17.8 kDa)', 'Ovalbumin (45.0 kDa)', 'Beta-lactoglobulin (36.2 kDa)', 'Cytochrome C (13.4 kDa)', 'Bovine serum albumin (66.2 kDa)', 'Ferritin (440 kDa)', 'Hemoglobin (64.5 kDa)', 'Lysozyme (14.3 kDa)', 'Rabbit Phosphorylase B (97.4 kDa)']",Rabbit Phosphorylase B (97.4 kDa),J,Science,Biology,Biochemistry and Molecular Biology,middle,False,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+Using gel filtration chromatography to separate the following mixture of four proteins, which one will elute from the chromatographic column first?
+
+Options:
+A. Insulin (5.7 kDa)
+B. Myoglobin (17.8 kDa)
+C. Ovalbumin (45.0 kDa)
+D. Beta-lactoglobulin (36.2 kDa)
+E. Cytochrome C (13.4 kDa)
+F. Bovine serum albumin (66.2 kDa)
+G. Ferritin (440 kDa)
+H. Hemoglobin (64.5 kDa)
+I. Lysozyme (14.3 kDa)
+J. Rabbit Phosphorylase B (97.4 kDa)
+"
+0899aadf5ece4153b07a210981787a82,"Lysine has three pK values: pK₁ = 2.1, pK₂ = 9.0, pK₃ = 10.5. What is the pI of lysine?","['10.5', '5.55', '7.15', '10.0', '6.3', '8.75', '9.75', '6.85', '7.25', '8.25']",9.75,G,Science,Biology,Biochemistry and Molecular Biology,middle,True,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+Lysine has three pK values: pK₁ = 2.1, pK₂ = 9.0, pK₃ = 10.5. What is the pI of lysine?
+
+Options:
+A. 10.5
+B. 5.55
+C. 7.15
+D. 10.0
+E. 6.3
+F. 8.75
+G. 9.75
+H. 6.85
+I. 7.25
+J. 8.25
+"
+9da5caac2c6d48a4a0510e119546ccc4,"Using RNA as a template, that is, synthesizing DNA according to the nucleotide sequence in RNA (called reverse transcription), what enzyme is required in this process?","['RNA-templated Genetic Transcriptor', 'DNA-Directed DNA Polymerase', 'RNA-Guided RNA Polymerase', 'Reverse RNA-directed DNA Synthase', 'DNA-derived RNA Synthesizer', 'DNA-Directed RNA Polymerase', 'RNA-dependent RNA Polymerase', 'RNA-directed Transcriptase Enzyme', 'DNA-dependent DNA Ligase', 'RNA-guided DNA polymerase']",RNA-guided DNA polymerase,J,Science,Biology,Biochemistry and Molecular Biology,middle,False,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+Using RNA as a template, that is, synthesizing DNA according to the nucleotide sequence in RNA (called reverse transcription), what enzyme is required in this process?
+
+Options:
+A. RNA-templated Genetic Transcriptor
+B. DNA-Directed DNA Polymerase
+C. RNA-Guided RNA Polymerase
+D. Reverse RNA-directed DNA Synthase
+E. DNA-derived RNA Synthesizer
+F. DNA-Directed RNA Polymerase
+G. RNA-dependent RNA Polymerase
+H. RNA-directed Transcriptase Enzyme
+I. DNA-dependent DNA Ligase
+J. RNA-guided DNA polymerase
+"
+e2e5e65b75ca4d89a7c5a0c28160637e,"The oligosaccharide chains in glycoproteins and glycolipids exhibit highly variable sequences and rich structural information, surpassing even nucleic acids and proteins. What is the primary mode of linkage between the reducing-end residue of the oligosaccharide chain in glycoproteins and the amino acid residue of the peptide chain?","['C-phosphate bond', 'S-lipid bond', 'C-glycopeptide bond', 'O-sulfate bond', 'N-acetamide bond', 'O-galactosyl bond', 'S-glycopeptide bond', 'O-glycopeptide bond', 'N-glycopeptide bond', 'N-glycosidic bond']",O-glycopeptide bond,H,Science,Biology,Biochemistry and Molecular Biology,middle,False,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+The oligosaccharide chains in glycoproteins and glycolipids exhibit highly variable sequences and rich structural information, surpassing even nucleic acids and proteins. What is the primary mode of linkage between the reducing-end residue of the oligosaccharide chain in glycoproteins and the amino acid residue of the peptide chain?
+
+Options:
+A. C-phosphate bond
+B. S-lipid bond
+C. C-glycopeptide bond
+D. O-sulfate bond
+E. N-acetamide bond
+F. O-galactosyl bond
+G. S-glycopeptide bond
+H. O-glycopeptide bond
+I. N-glycopeptide bond
+J. N-glycosidic bond
+"
+5a9a965d1aac48538c4cc44a3bc6517a,"In the denaturation and renaturation experiments of inclusion body proteins, which of the following experimental techniques is most likely to be used?","['Spectrophotometry', 'Sonication', 'Electrophoresis', 'Flow Cytometry', 'Lyophilization', 'Ultrafiltration', 'Centrifugation', 'Chromatography', 'Salting Out', 'Dialysis']",Dialysis,J,Science,Biology,Biochemistry and Molecular Biology,middle,False,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+In the denaturation and renaturation experiments of inclusion body proteins, which of the following experimental techniques is most likely to be used?
+
+Options:
+A. Spectrophotometry
+B. Sonication
+C. Electrophoresis
+D. Flow Cytometry
+E. Lyophilization
+F. Ultrafiltration
+G. Centrifugation
+H. Chromatography
+I. Salting Out
+J. Dialysis
+"
+90471beba9764757bb772e6f7392d824,Suppose you discovered a new species of bioluminescent worm . How could you prove that it was the worm itself and not some contaminating bacteria that was producing the light ?,"[""Use spectroscopy to analyze the light's wavelength signature and compare it to known bioluminescent organisms"", ""Measure the intensity of light produced by the worm over time to see if it correlates with the worm's life cycle"", 'Isolate the light-producing organ and test it in isolation from the worm', 'Treat the worm with antibiotics to see if the light production stops', 'Conduct genetic modification to knock out suspected bioluminescent genes and observe if light production ceases', 'Perform DNA sequencing on the worm', 'Observe the worm in a dark environment', ""Compare the worm's bioluminescence with known bacterial bioluminescence patterns"", 'Look for the presence of bioluminescent proteins in the worm', 'Place the light-producing substance in complete growth media or physically examine the light-emitting substance under a microscope.']",Place the light-producing substance in complete growth media or physically examine the light-emitting substance under a microscope.,J,Science,Biology,Biochemistry and Molecular Biology,middle,False,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+Suppose you discovered a new species of bioluminescent worm . How could you prove that it was the worm itself and not some contaminating bacteria that was producing the light ?
+
+Options:
+A. Use spectroscopy to analyze the light's wavelength signature and compare it to known bioluminescent organisms
+B. Measure the intensity of light produced by the worm over time to see if it correlates with the worm's life cycle
+C. Isolate the light-producing organ and test it in isolation from the worm
+D. Treat the worm with antibiotics to see if the light production stops
+E. Conduct genetic modification to knock out suspected bioluminescent genes and observe if light production ceases
+F. Perform DNA sequencing on the worm
+G. Observe the worm in a dark environment
+H. Compare the worm's bioluminescence with known bacterial bioluminescence patterns
+I. Look for the presence of bioluminescent proteins in the worm
+J. Place the light-producing substance in complete growth media or physically examine the light-emitting substance under a microscope.
+"
+e41e82a808034476990b92d17fd97bfa,"For horse hemoglobin in water solution at 20° C, D = 6.3 × 10^-7 cm^2 \textbullet s ^-1, s = 4.41 × 10^-13 s , v= 0.749 cm^3g^-1 , \rho = 0.9982 g \textbullet cm^-3 . Calculate the molecular weight.","['83000 g mol^-1', '68000 g mol^-1', '67554 g mol^-1', '61000 g mol^-1', '56000 g mol^-1', '65000 g mol^-1', '70000 g mol^-1', '64000 g mol^-1', '78000 g mol^-1', '72000 g mol^-1']",67554 g mol^-1,C,Science,Biology,Biochemistry and Molecular Biology,middle,True,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+For horse hemoglobin in water solution at 20° C, D = 6.3 × 10^-7 cm^2 \textbullet s ^-1, s = 4.41 × 10^-13 s , v= 0.749 cm^3g^-1 , \rho = 0.9982 g \textbullet cm^-3 . Calculate the molecular weight.
+
+Options:
+A. 83000 g mol^-1
+B. 68000 g mol^-1
+C. 67554 g mol^-1
+D. 61000 g mol^-1
+E. 56000 g mol^-1
+F. 65000 g mol^-1
+G. 70000 g mol^-1
+H. 64000 g mol^-1
+I. 78000 g mol^-1
+J. 72000 g mol^-1
+"
+24ce9a62c5554555ae04e92a76161edf,How many moles of ATP can be produced by the complete oxidation of 1 mol of stearic acid?,"['125', '120', '180', '105', '150', '160', '98', '110', '130', '140']",120,B,Science,Biology,Biochemistry and Molecular Biology,hard,True,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+How many moles of ATP can be produced by the complete oxidation of 1 mol of stearic acid?
+
+Options:
+A. 125
+B. 120
+C. 180
+D. 105
+E. 150
+F. 160
+G. 98
+H. 110
+I. 130
+J. 140
+"
+2c9cb5a3b3574b9da96038224b3a84d0,What is required for glucose to convert into glucose-1-phosphate?,"['Fructose-1,6-bisphosphate', 'Glucose-1,6-bisphosphatase', 'Pyruvate kinase', 'NAD', 'Phosphofructokinase', 'ATP', 'Hexokinase', '1,6-fructose phosphate', 'Glucose-6-phosphatase', 'Phosphoglucomutase']","Fructose-1,6-bisphosphate",A,Science,Biology,Biochemistry and Molecular Biology,middle,False,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+What is required for glucose to convert into glucose-1-phosphate?
+
+Options:
+A. Fructose-1,6-bisphosphate
+B. Glucose-1,6-bisphosphatase
+C. Pyruvate kinase
+D. NAD
+E. Phosphofructokinase
+F. ATP
+G. Hexokinase
+H. 1,6-fructose phosphate
+I. Glucose-6-phosphatase
+J. Phosphoglucomutase
+"
+e7119d1540284279a6dcaef1381269a8,Name the enzyme that has an enzyme commission number of 3.1.4.2.,"['Glycerophosphocholine phosphodiesterase', 'Glycerophosphocholine phospholipase', 'Glycerophosphocholine phosphodiesterase A', 'Glycerophosphocholine phospholipase C', 'Glycerophosphocholine phosphomonoesterase', 'Glycerophosphocholine phospholipase B', 'Glycerophosphocholine phosphotransferase', 'Glycerophosphocholine phosphatase', 'Glycerophosphocholine phospholipase A', 'Glycerophosphocholine phospholipase D']",Glycerophosphocholine phosphodiesterase,A,Science,Biology,Biochemistry and Molecular Biology,easy,False,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+Name the enzyme that has an enzyme commission number of 3.1.4.2.
+
+Options:
+A. Glycerophosphocholine phosphodiesterase
+B. Glycerophosphocholine phospholipase
+C. Glycerophosphocholine phosphodiesterase A
+D. Glycerophosphocholine phospholipase C
+E. Glycerophosphocholine phosphomonoesterase
+F. Glycerophosphocholine phospholipase B
+G. Glycerophosphocholine phosphotransferase
+H. Glycerophosphocholine phosphatase
+I. Glycerophosphocholine phospholipase A
+J. Glycerophosphocholine phospholipase D
+"
+c01c2e2bd2024083b67ef3a85c6c7174,"The concentration of phosphorylase in the cell-free extract of Escherichia coli is 0.08 units/$ml$, with a specific activity of 0.0033 units/mg protein. A 50 ml portion of this solution is fractionated using ammonium sulfate precipitation, and the precipitate at 30%-50% saturation is dissolved in $10 ml$ of solution and dialyzed, resulting in a post-dialysis volume of $12 ml$, containing $30 mg$ of protein per ml. A $20 \ \mu l$ sample of the partially purified enzyme solution is used to catalyze a reaction under standard experimental conditions, with a reaction rate of 5.9 nM/min. Calculation: enzyme recovery rate is().","['$$75.2\\%$$', '$$89.9\\%$$', '$$85.0\\%$$', '$$77.8\\%$$', '$$92.3\\%$$', '$$79.5\\%$$', '$$80.4\\%$$', '$$83.1\\%$$', '$$91.7\\%$$', '$$88.5\\%$$']",$$88.5\%$$,J,Science,Biology,Biochemistry and Molecular Biology,hard,True,10,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+The concentration of phosphorylase in the cell-free extract of Escherichia coli is 0.08 units/$ml$, with a specific activity of 0.0033 units/mg protein. A 50 ml portion of this solution is fractionated using ammonium sulfate precipitation, and the precipitate at 30%-50% saturation is dissolved in $10 ml$ of solution and dialyzed, resulting in a post-dialysis volume of $12 ml$, containing $30 mg$ of protein per ml. A $20 \ \mu l$ sample of the partially purified enzyme solution is used to catalyze a reaction under standard experimental conditions, with a reaction rate of 5.9 nM/min. Calculation: enzyme recovery rate is().
+
+Options:
+A. $$75.2\%$$
+B. $$89.9\%$$
+C. $$85.0\%$$
+D. $$77.8\%$$
+E. $$92.3\%$$
+F. $$79.5\%$$
+G. $$80.4\%$$
+H. $$83.1\%$$
+I. $$91.7\%$$
+J. $$88.5\%$$
+"
+23af7313d11e4e3dbd98330dc07c12fe,Which of the following processes releases the most energy?,"['Citric Acid Cycle', 'Dark reaction', 'Glycolysis', 'Anaerobic Respiration', 'Calvin Cycle', 'Biological Oxidation', 'Alcoholic Fermentation', 'Lactic Acid Fermentation', 'Light-Dependent Reactions']",Biological Oxidation,F,Science,Biology,Biochemistry and Molecular Biology,middle,False,9,"Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: <LETTER>' (without quotes) where <LETTER> is one of ABCDEFGHIJ. Think step by step before answering.
+
+Which of the following processes releases the most energy?
+
+Options:
+A. Citric Acid Cycle
+B. Dark reaction
+C. Glycolysis
+D. Anaerobic Respiration
+E. Calvin Cycle
+F. Biological Oxidation
+G. Alcoholic Fermentation
+H. Lactic Acid Fermentation
+I. Light-Dependent Reactions
+"
